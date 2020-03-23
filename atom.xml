@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://deserce.github.io/"/>
-  <updated>2020-03-22T12:06:00.787Z</updated>
+  <updated>2020-03-23T12:09:25.129Z</updated>
   <id>https://deserce.github.io/</id>
   
   <author>
@@ -15,6 +15,44 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>BookxNote 不完全教程</title>
+    <link href="https://deserce.github.io/2020/03/23/BXNtutorial/"/>
+    <id>https://deserce.github.io/2020/03/23/BXNtutorial/</id>
+    <published>2020-03-23T11:29:19.000Z</published>
+    <updated>2020-03-23T12:09:25.129Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="【主观】BookxNote-不完全教程"><a href="#【主观】BookxNote-不完全教程" class="headerlink" title="【主观】BookxNote 不完全教程"></a>【主观】BookxNote 不完全教程</h1><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>我的需求：一个PDF阅读器【WIN10】</p><p>答：好的，给您的建议如下：</p><ul><li>Adobe Acrobat Reader DC</li><li>Xodo PDF Reader＆Editor</li><li>DrawBoard PDF</li><li>BookxNote</li></ul><p>第一个全家桶，功能是不错，但是这也太大了把，随随便便几个G，我本子只有250啊喂！再见！</p><p>第二个，UI太丑，拒绝。</p><p>第三个，第一眼UI太棒了，完美支持手写触控，舒服。笔记记起来也很流畅。但是每次开机重新打开的时候。。。大佬啊，宁能不能不要爱的魔力转圈圈啊！</p><p>来最后一位，欸小伙子UI还不错喔！</p><p>你多大？<br>哇才10几M，赞！</p><p>你快不快？<br>能秒开！</p><p>然后呢？能来个自我介绍不？<br>不，你自己慢慢玩吧。</p><h1 id="我喜欢的功能"><a href="#我喜欢的功能" class="headerlink" title="我喜欢的功能"></a>我喜欢的功能</h1><h2 id="视图"><a href="#视图" class="headerlink" title="视图"></a>视图</h2><p>可以同时显示笔记大纲，批注，目录，还有笔记视图。</p><h2 id="笔记导出脑图"><a href="#笔记导出脑图" class="headerlink" title="笔记导出脑图"></a>笔记导出脑图</h2><p>记录笔记时有条理记录，可以一键生成脑图。</p><h2 id="最喜欢的一点，拆分视图"><a href="#最喜欢的一点，拆分视图" class="headerlink" title="最喜欢的一点，拆分视图"></a>最喜欢的一点，拆分视图</h2><p>有时候看文章的时候，已经到PDF的第4页了，图表还在第三页翻来翻去，很不方便！</p><p>BXN有一个拆分视图的功能很好的解决了这个痛点。</p><p><a href="https://cdn.jsdelivr.net/gh/deserce/picgo/img/20200323200848.gif" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://cdn.jsdelivr.net/gh/deserce/picgo/img/20200323200848.gif" class="lazyload"></a></p><h1 id="感谢"><a href="#感谢" class="headerlink" title="感谢"></a>感谢</h1><p>感谢BookxNote开发组。</p><p>以后会继续补充使用的感想。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;【主观】BookxNote-不完全教程&quot;&gt;&lt;a href=&quot;#【主观】BookxNote-不完全教程&quot; class=&quot;headerlink&quot; title=&quot;【主观】BookxNote 不完全教程&quot;&gt;&lt;/a&gt;【主观】BookxNote 不完全教程&lt;/h1&gt;&lt;h1 i
+      
+    
+    </summary>
+    
+    
+      <category term="奇淫技巧" scheme="https://deserce.github.io/categories/%E5%A5%87%E6%B7%AB%E6%8A%80%E5%B7%A7/"/>
+    
+      <category term="办公效率" scheme="https://deserce.github.io/categories/%E5%A5%87%E6%B7%AB%E6%8A%80%E5%B7%A7/%E5%8A%9E%E5%85%AC%E6%95%88%E7%8E%87/"/>
+    
+      <category term="Windows" scheme="https://deserce.github.io/categories/%E5%A5%87%E6%B7%AB%E6%8A%80%E5%B7%A7/%E5%8A%9E%E5%85%AC%E6%95%88%E7%8E%87/Windows/"/>
+    
+    
+      <category term="软件" scheme="https://deserce.github.io/tags/%E8%BD%AF%E4%BB%B6/"/>
+    
+      <category term="PDF阅读器" scheme="https://deserce.github.io/tags/PDF%E9%98%85%E8%AF%BB%E5%99%A8/"/>
+    
+      <category term="windows" scheme="https://deserce.github.io/tags/windows/"/>
+    
+      <category term="笔记" scheme="https://deserce.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="mindmap" scheme="https://deserce.github.io/tags/mindmap/"/>
+    
+  </entry>
   
   <entry>
     <title>做一个经得起搜索的人 —— 问心无愧</title>
