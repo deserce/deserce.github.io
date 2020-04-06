@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>文明的起源——折断又痊愈的大腿骨</title>
+      <link href="/2020/04/06/20200406/"/>
+      <url>/2020/04/06/20200406/</url>
+      
+        <content type="html"><![CDATA[<h1 id="20200406-文明的起源——折断又痊愈的大腿骨"><a href="#20200406-文明的起源——折断又痊愈的大腿骨" class="headerlink" title="20200406-文明的起源——折断又痊愈的大腿骨"></a>20200406-文明的起源——折断又痊愈的大腿骨</h1><hr><p>近来又看到这个说法，感触很深</p><p>最近是在一部未来末日背景的小说 ——《第一序列》</p><blockquote><p>第1010章文明的起点 节选</p><p>“你知道吗，我以前看一本书上讲人类文明的起源，颠覆了我很多观念。”杨小槿说道：“你觉得人类文明起源的标志是什么？”</p><p>“使用工具？奴役别人？”任小粟说道当生产资料出现不平等后…”</p><p>“杨小槿摇摇头：“你说的是社会的起源，不是文明的起源。”</p><p>“那文明的起源是什么呢？“任小粟问道。</p><p>“文明的起源，是一根折断后又痊愈的大腿骨，”杨小槿说道：“当动物在野外折断了大腿骨之后，其实就已经注定了它的结局。它将没法捕猎获取食物’也没法去河边饮水，在庞大的荒野上，它注定要成为其他野兽的食物。而一根人类的折断又痊愈的大腿骨就意味着，有人长期陪伴他照顾他，帮助他愈合伤口，帮助他寻找食物直到他可以重新活动。小粟，在危难中帮助别人，才是文明的起点。”</p></blockquote><p>小说里面所描述的末日之后</p><p>有人居住在类似<code>进击的巨人</code>中描述的壁垒之中</p><p>有人围绕壁垒而居</p><p>壁垒之外资源匮乏、生存环境恶劣</p><p>虽然环境恶劣至极</p><p>但是人们还是有苦中作乐的心</p><p>虽然财阀统治暗无天日</p><p>但是在这黑暗中，还是会有星星之火</p><p>虽不足以燎原</p><p>但在这至暗的年代</p><p>足以慰藉千疮百孔的人心</p><p>才会激起下一道光</p><hr><p>我也不懂什么是文明</p><p>也不知道<code>玛格丽特·米德</code>所说是否正确</p><p>但我在这个故事中看到的我所以为的人性的萌芽</p><p>当然我不知道这故事的可信度</p><p>权当故事</p><p>我想说的只有一点</p><p><strong>请做个人吧！</strong></p><p>现如今关系确实是很复杂，利益纠缠不清</p><p>是，你有你的立场，你有你的利益</p><p>但请你做个人</p><p>可能你的长辈没学怎么做长辈</p><p>所以你的长辈也只能是孩子的长辈</p><p>可是你连孩子都算不上</p><p>—  写于新冠疫情的四月，外围疫情还未到转折点，恰逢建国同志瞎说胡扯，各路妖魔鬼怪，爱国人士昼伏夜出之际</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 胡思乱想 </category>
+          
+          <category> 随文笔记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 读书 </tag>
+            
+            <tag> share </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>20200326 你的名字</title>
       <link href="/2020/03/26/20200326/"/>
       <url>/2020/03/26/20200326/</url>
@@ -39,7 +68,7 @@
       <link href="/2020/03/26/fanshan/"/>
       <url>/2020/03/26/fanshan/</url>
       
-        <content type="html"><![CDATA[<h1 id="【科学上网】上网上冲浪姿势"><a href="#【科学上网】上网上冲浪姿势" class="headerlink" title="【科学上网】上网上冲浪姿势"></a>【科学上网】上网上冲浪姿势</h1><h2 id="v2ray"><a href="#v2ray" class="headerlink" title="v2ray"></a>v2ray</h2><h3 id="服务器配置"><a href="#服务器配置" class="headerlink" title="服务器配置"></a>服务器配置</h3><p>原博主<a href="https://github.com/hijkpw/scripts" target="_blank" rel="noopener">github</a></p><p>登录到服务器（windows请参考 Bitvise连接Linux服务器教程，mac用户请参考 Mac电脑连接Linux教程），在终端（黑框框）输入如下命令：</p><div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">bash</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">bash &lt;(curl -sL https://raw.githubusercontent.com/hijkpw/scripts/master/centos_install_v2ray.sh)</span><br></pre></td></tr></table></figure></div><p>按回车键，屏幕出现 “<strong>请设置v2ray的端口</strong>[1-65535]” 的提示，输入一个你希望的端口号（例如12345，<strong>不能是22</strong>）。接下来屏幕上会疯狂出现一些你看得懂也可能看不懂的东西，<strong>如果安装过程卡住，请耐心等待几分钟</strong>；期间网络断开（windows上表现为黑框框中或者顶部标题出现“disconnected”，mac表现为终端出现“closed by remote host”或”broken pipe”），请重新连接后再次执行命令。安装成功后，会输出配置信息，截图如下：<br><a href="https://www.hijk.pw/wp-content/uploads/2019/12/install-v2ray.jpg" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://www.hijk.pw/wp-content/uploads/2019/12/install-v2ray.jpg" class="lazyload"></a></p><p>v2ray一键安装脚本</p><p><strong>到此服务端配置完毕</strong>，服务器可能会自动重启(<strong>如果没提示重启则不需要</strong>)，windows终端出现“disconnected”，mac出现“closed by remote host”说明服务器成功重启了。</p><p>V2ray一键脚本做了如下事情：</p><p>更新系统到最新版<br>安装bbr加速模块<br>安装v2ray并设置开机启动</p><h3 id="客户端配置"><a href="#客户端配置" class="headerlink" title="客户端配置"></a>客户端配置</h3><p>接下来是科学上网最后一步：下载客户端，并参考页面中的配置教程进行配置：</p><p>v2ray windows客户端<a href="https://github.com/2dust/v2rayN/releases" target="_blank" rel="noopener">下载</a><a href="https://www.hijk.pw/v2rayn-config-tutorial/" target="_blank" rel="noopener">配置</a></p><p>v2ray安卓客户端<a href="https://github.com/2dust/v2rayNG/releases" target="_blank" rel="noopener">下载</a></p><p>v2ray mac客户端<a href="https://github.com/yanue/V2rayU/releases" target="_blank" rel="noopener">下载</a></p><p>v2ray ios客户端 都是付费滴</p><ul><li><code>i2ray</code> 需要账户的请绕道，或者联系我。</li><li>Shadowrocket（俗称小火箭，注意不是shadowrocket VPN）二爷的githu项目里面有分享</li><li>pepi</li><li>Kitsunebi</li><li>Quantumult（内置免费节点）</li></ul><p>下载客户端配置好后，就可以愉快的上外网了！</p><p>如果浏览器本身有类似的代理插件请停用。</p><p><a href="https://www.hijk.pw/centos-one-click-install-v2ray/" target="_blank" rel="noopener">原文链接</a></p><p>有免费的项目，感谢。</p><p><a href="https://github.com/ugvf2009/Miles/blob/master/README.md" target="_blank" rel="noopener">二爷nb</a></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="【科学上网】上网上冲浪姿势"><a href="#【科学上网】上网上冲浪姿势" class="headerlink" title="【科学上网】上网上冲浪姿势"></a>【科学上网】上网上冲浪姿势</h1><h2 id="v2ray"><a href="#v2ray" class="headerlink" title="v2ray"></a>v2ray</h2><h3 id="服务器配置"><a href="#服务器配置" class="headerlink" title="服务器配置"></a>服务器配置</h3><p>原博主<a href="https://github.com/hijkpw/scripts" target="_blank" rel="noopener">github</a></p><p>登录到服务器（windows请参考 Bitvise连接Linux服务器教程，mac用户请参考 Mac电脑连接Linux教程），在终端（黑框框）输入如下命令：</p><div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">bash</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">bash &lt;(curl -sL https://raw.githubusercontent.com/hijkpw/scripts/master/centos_install_v2ray.sh)</span><br></pre></td></tr></table></figure></div><p>按回车键，屏幕出现 “<strong>请设置v2ray的端口</strong>[1-65535]” 的提示，输入一个你希望的端口号（例如12345，<strong>不能是22</strong>）。接下来屏幕上会疯狂出现一些你看得懂也可能看不懂的东西，<strong>如果安装过程卡住，请耐心等待几分钟</strong>；期间网络断开（windows上表现为黑框框中或者顶部标题出现“disconnected”，mac表现为终端出现“closed by remote host”或”broken pipe”），请重新连接后再次执行命令。安装成功后，会输出配置信息，截图如下：<br><a href="https://www.hijk.pw/wp-content/uploads/2019/12/install-v2ray.jpg" data-fancybox="group" data-caption class="fancybox"><img alt data-src="https://www.hijk.pw/wp-content/uploads/2019/12/install-v2ray.jpg" class="lazyload" title></a></p><p>v2ray一键安装脚本</p><p><strong>到此服务端配置完毕</strong>，服务器可能会自动重启(<strong>如果没提示重启则不需要</strong>)，windows终端出现“disconnected”，mac出现“closed by remote host”说明服务器成功重启了。</p><p>V2ray一键脚本做了如下事情：</p><p>更新系统到最新版<br>安装bbr加速模块<br>安装v2ray并设置开机启动</p><h3 id="客户端配置"><a href="#客户端配置" class="headerlink" title="客户端配置"></a>客户端配置</h3><p>接下来是科学上网最后一步：下载客户端，并参考页面中的配置教程进行配置：</p><p>v2ray windows客户端<a href="https://github.com/2dust/v2rayN/releases" target="_blank" rel="noopener">下载</a><a href="https://www.hijk.pw/v2rayn-config-tutorial/" target="_blank" rel="noopener">配置</a></p><p>v2ray安卓客户端<a href="https://github.com/2dust/v2rayNG/releases" target="_blank" rel="noopener">下载</a></p><p>v2ray mac客户端<a href="https://github.com/yanue/V2rayU/releases" target="_blank" rel="noopener">下载</a></p><p>v2ray ios客户端 都是付费滴</p><ul><li><code>i2ray</code> 需要账户的请绕道，或者联系我。</li><li>Shadowrocket（俗称小火箭，注意不是shadowrocket VPN）二爷的githu项目里面有分享</li><li>pepi</li><li>Kitsunebi</li><li>Quantumult（内置免费节点）</li></ul><p>下载客户端配置好后，就可以愉快的上外网了！</p><p>如果浏览器本身有类似的代理插件请停用。</p><p><a href="https://www.hijk.pw/centos-one-click-install-v2ray/" target="_blank" rel="noopener">原文链接</a></p><p>有免费的项目，感谢。</p><p><a href="https://github.com/ugvf2009/Miles/blob/master/README.md" target="_blank" rel="noopener">二爷nb</a></p>]]></content>
       
       
       <categories>
@@ -107,7 +136,7 @@
       <link href="/2020/03/24/download/"/>
       <url>/2020/03/24/download/</url>
       
-        <content type="html"><![CDATA[<h1 id="【娱乐】视频下载工具-——-youtube-dl-you-get"><a href="#【娱乐】视频下载工具-——-youtube-dl-you-get" class="headerlink" title="【娱乐】视频下载工具 —— youtube-dl/you-get"></a>【娱乐】视频下载工具 —— youtube-dl/you-get</h1><blockquote><p>所有平台都可，以Windows10 演示</p></blockquote><h2 id="需要的一些软件"><a href="#需要的一些软件" class="headerlink" title="需要的一些软件:"></a>需要的一些软件:</h2><ul><li><p>python <a href="https://www.python.org/downloads/release" target="_blank" rel="noopener">下载地址</a></p></li><li><p>youtube-dl <a href="https://github.com/ytdl-org/youtube-dl" target="_blank" rel="noopener">github</a></p></li><li><p><a href="https://code.visualstudio.com/" target="_blank" rel="noopener">vscode</a></p></li><li><p><a href="http://ffmpeg.org/" target="_blank" rel="noopener">ffmpeg</a></p></li><li><p>you-get <a href="https://github.com/soimort/you-get" target="_blank" rel="noopener">github</a></p></li></ul><h2 id="开始正片1"><a href="#开始正片1" class="headerlink" title="开始正片1"></a>开始正片1</h2><ol><li>安装 <code>youtube-dl</code>,记得CMD开管理员模式</li></ol><p>安装并更新youtube-dl</p><div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">Code</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">pip install --upgrade youtube-dl</span><br></pre></td></tr></table></figure></div><p><a href="https://cdn.jsdelivr.net/gh/deserce/picgo/img/20200324150609.png" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://cdn.jsdelivr.net/gh/deserce/picgo/img/20200324150609.png" class="lazyload"></a></p><ol start="2"><li><p>安装<code>ffmepg</code>.<a href="https://www.jianshu.com/p/2b609afb9800" target="_blank" rel="noopener">教程</a></p></li><li><p>开宰。</p><ul><li>视频链接 <code>http://www.le.com/ptv/vplay/31520987.html?ch=baidu_ffdsj&amp;amp;from=baidu_so&amp;amp;site=baidu_all</code> </li><li>命令行将地址换到下载的目录<code>cd C:\Users\DESERCE\Videos\youget</code></li><li>盘他：<code>youtube-dl http://www.le.com/ptv/vplay/31520987.html?ch=baidu_ffdsj&amp;amp;from=baidu_so&amp;amp;site=baidu_all</code></li></ul></li></ol><h2 id="开始正片2"><a href="#开始正片2" class="headerlink" title="开始正片2"></a>开始正片2</h2><ol><li>安装<code>you-get</code>，在CMD里面执行命令行</li></ol><div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">Code</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">pip install you-get</span><br></pre></td></tr></table></figure></div><ol start="2"><li><p>使用方法和上面类似，有的时候<code>youtube-dl</code>不支持的网站换<code>you-get</code>会有惊喜。<br><a href="https://cdn.jsdelivr.net/gh/deserce/picgo/img/20200324153635.png" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://cdn.jsdelivr.net/gh/deserce/picgo/img/20200324153635.png" class="lazyload"></a></p></li><li><p>下载多条视频：</p></li></ol><div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">Code</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">you-get [url1] [url2] [url3]</span><br></pre></td></tr></table></figure></div><p>例子：爬取优酷的视频。</p><ul><li>首先获取一系列的视频地址，使用<code>python</code>代码贴在下面了</li><li>然后调用<code>you-get</code> 下载视频</li></ul><p>可能会在网页改版的时候失效，到时候再说咯。</p><p>肯定还有更方便的办法，望各位大佬不吝赐教。</p><p>在此只是提供一个下载网上视频测试网速的方法，请大家支持正版。</p><div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">Code</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">you-get https:&#x2F;&#x2F;v.youku.com&#x2F;v_show&#x2F;id_XMzU5NDM0MjIyMA&#x3D;&#x3D;.html https:&#x2F;&#x2F;v.youku.com&#x2F;v_show&#x2F;id_XMzU5NDM0MjIxNg&#x3D;&#x3D;.html</span><br></pre></td></tr></table></figure></div><p>抓取指定优酷<code>url</code>页面中的选集地址</p><div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">python</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">from</span> bs4 <span class="keyword">import</span> BeautifulSoup</span><br><span class="line"><span class="keyword">import</span> requests</span><br><span class="line"><span class="keyword">import</span> re</span><br><span class="line"><span class="keyword">import</span> os</span><br><span class="line"><span class="keyword">import</span> string</span><br><span class="line"><span class="keyword">import</span> pyperclip</span><br><span class="line"><span class="comment"># 把url替换你需要爬取的链接</span></span><br><span class="line">url = <span class="string">'https://v.youku.com/v_show/id_XOTE0NDk1ODI0.html?spm=a2h0k.11417342.soresults.dtitle&amp;s=e524a4629c8f11e4b522'</span></span><br><span class="line">response = requests.get(url)</span><br><span class="line">response.encoding=response.apparent_encoding</span><br><span class="line"><span class="comment">#因为网站使用的不是通用的utf-8格式，而是gzip，所以要让它判断解码格式</span></span><br><span class="line">html = BeautifulSoup(response.text,<span class="string">'lxml'</span>)</span><br><span class="line"><span class="comment">#获取到的网页信息需要进行解析，使用lxml解析器，其实默认的解析器就是lxml，但是这里会出现警告提示，方便你对其他平台移植</span></span><br><span class="line">content=html.select(<span class="string">'#app &gt; div &gt; div.play-top-container &gt; div.l-container &gt; div.module-playbox &gt; div &gt; div.listbox &gt; div &gt; div.scroll-area &gt; div.anthology-content-scroll &gt; div:nth-child(2) &gt; div.anthology-content'</span>)</span><br><span class="line"><span class="comment">#将复制好的选择器信息放进select方法中，将获取到的内容作为tag形式放入一个列表中</span></span><br><span class="line"><span class="comment">#转换数据类型，不然会报错</span></span><br><span class="line">url = str(content)</span><br><span class="line"><span class="comment"># 正则表达式获取必要数据</span></span><br><span class="line">urls = re.findall(<span class="string">'[a-zA-z]+://[^\s]*'</span>, url)</span><br><span class="line"><span class="comment"># 处理字符串</span></span><br><span class="line">urls =str(urls)</span><br><span class="line">urls = urls.replace(<span class="string">'['</span>,<span class="string">''</span>).replace(<span class="string">']'</span>,<span class="string">''</span>).replace(<span class="string">','</span>,<span class="string">''</span>).replace(<span class="string">'"'</span>,<span class="string">''</span>).replace(<span class="string">'\''</span>,<span class="string">''</span>)</span><br><span class="line"><span class="comment">#把urls中的字符复制到剪切板</span></span><br><span class="line">pyperclip.copy(urls)</span><br></pre></td></tr></table></figure></div><h2 id="ffmpeg-mkv-转-MP4"><a href="#ffmpeg-mkv-转-MP4" class="headerlink" title="ffmpeg mkv 转 MP4"></a>ffmpeg mkv 转 MP4</h2><p>在文件目录打开目录行，执行如下命令，将 Givenchy.mkv 转成 Givenchy.mp4<br><code>powershellffmpeg -i Givenchy.mkv Givenchy.mp4</code></p><h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料:"></a>参考资料:</h2><p>1.<a href="https://zhuanlan.zhihu.com/p/103478279" target="_blank" rel="noopener">https://zhuanlan.zhihu.com/p/103478279</a><br>2.<a href="https://tool.oschina.net/regex/#" target="_blank" rel="noopener">https://tool.oschina.net/regex/#</a><br>3.<a href="https://blog.csdn.net/qq_30638831/article/details/81153011" target="_blank" rel="noopener">https://blog.csdn.net/qq_30638831/article/details/81153011</a><br>4.<a href="https://blog.csdn.net/My_THE/article/details/79961252" target="_blank" rel="noopener">https://blog.csdn.net/My_THE/article/details/79961252</a><br>5.<a href="https://www.jianshu.com/p/6bae57859325" target="_blank" rel="noopener">https://www.jianshu.com/p/6bae57859325</a><br>6.<a href="https://www.jianshu.com/p/dd7f04c27a79" target="_blank" rel="noopener">https://www.jianshu.com/p/dd7f04c27a79</a><br>7.<a href="https://blog.csdn.net/qq840166422/article/details/89553077" target="_blank" rel="noopener">https://blog.csdn.net/qq840166422/article/details/89553077</a><br>8.<a href="https://blog.csdn.net/qq_40491305/article/details/103272651" target="_blank" rel="noopener">https://blog.csdn.net/qq_40491305/article/details/103272651</a></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="【娱乐】视频下载工具-——-youtube-dl-you-get"><a href="#【娱乐】视频下载工具-——-youtube-dl-you-get" class="headerlink" title="【娱乐】视频下载工具 —— youtube-dl/you-get"></a>【娱乐】视频下载工具 —— youtube-dl/you-get</h1><blockquote><p>所有平台都可，以Windows10 演示</p></blockquote><h2 id="需要的一些软件"><a href="#需要的一些软件" class="headerlink" title="需要的一些软件:"></a>需要的一些软件:</h2><ul><li><p>python <a href="https://www.python.org/downloads/release" target="_blank" rel="noopener">下载地址</a></p></li><li><p>youtube-dl <a href="https://github.com/ytdl-org/youtube-dl" target="_blank" rel="noopener">github</a></p></li><li><p><a href="https://code.visualstudio.com/" target="_blank" rel="noopener">vscode</a></p></li><li><p><a href="http://ffmpeg.org/" target="_blank" rel="noopener">ffmpeg</a></p></li><li><p>you-get <a href="https://github.com/soimort/you-get" target="_blank" rel="noopener">github</a></p></li></ul><h2 id="开始正片1"><a href="#开始正片1" class="headerlink" title="开始正片1"></a>开始正片1</h2><ol><li>安装 <code>youtube-dl</code>,记得CMD开管理员模式</li></ol><p>安装并更新youtube-dl</p><div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">Code</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">pip install --upgrade youtube-dl</span><br></pre></td></tr></table></figure></div><p><a href="https://cdn.jsdelivr.net/gh/deserce/picgo/img/20200324150609.png" data-fancybox="group" data-caption class="fancybox"><img alt data-src="https://cdn.jsdelivr.net/gh/deserce/picgo/img/20200324150609.png" class="lazyload" title></a></p><ol start="2"><li><p>安装<code>ffmepg</code>.<a href="https://www.jianshu.com/p/2b609afb9800" target="_blank" rel="noopener">教程</a></p></li><li><p>开宰。</p><ul><li>视频链接 <code>http://www.le.com/ptv/vplay/31520987.html?ch=baidu_ffdsj&amp;amp;from=baidu_so&amp;amp;site=baidu_all</code> </li><li>命令行将地址换到下载的目录<code>cd C:\Users\DESERCE\Videos\youget</code></li><li>盘他：<code>youtube-dl http://www.le.com/ptv/vplay/31520987.html?ch=baidu_ffdsj&amp;amp;from=baidu_so&amp;amp;site=baidu_all</code></li></ul></li></ol><h2 id="开始正片2"><a href="#开始正片2" class="headerlink" title="开始正片2"></a>开始正片2</h2><ol><li>安装<code>you-get</code>，在CMD里面执行命令行</li></ol><div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">Code</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">pip install you-get</span><br></pre></td></tr></table></figure></div><ol start="2"><li><p>使用方法和上面类似，有的时候<code>youtube-dl</code>不支持的网站换<code>you-get</code>会有惊喜。<br><a href="https://cdn.jsdelivr.net/gh/deserce/picgo/img/20200324153635.png" data-fancybox="group" data-caption class="fancybox"><img alt data-src="https://cdn.jsdelivr.net/gh/deserce/picgo/img/20200324153635.png" class="lazyload" title></a></p></li><li><p>下载多条视频：</p></li></ol><div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">Code</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">you-get [url1] [url2] [url3]</span><br></pre></td></tr></table></figure></div><p>例子：爬取优酷的视频。</p><ul><li>首先获取一系列的视频地址，使用<code>python</code>代码贴在下面了</li><li>然后调用<code>you-get</code> 下载视频</li></ul><p>可能会在网页改版的时候失效，到时候再说咯。</p><p>肯定还有更方便的办法，望各位大佬不吝赐教。</p><p>在此只是提供一个下载网上视频测试网速的方法，请大家支持正版。</p><div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">Code</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">you-get https:&#x2F;&#x2F;v.youku.com&#x2F;v_show&#x2F;id_XMzU5NDM0MjIyMA&#x3D;&#x3D;.html https:&#x2F;&#x2F;v.youku.com&#x2F;v_show&#x2F;id_XMzU5NDM0MjIxNg&#x3D;&#x3D;.html</span><br></pre></td></tr></table></figure></div><p>抓取指定优酷<code>url</code>页面中的选集地址</p><div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">python</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">from</span> bs4 <span class="keyword">import</span> BeautifulSoup</span><br><span class="line"><span class="keyword">import</span> requests</span><br><span class="line"><span class="keyword">import</span> re</span><br><span class="line"><span class="keyword">import</span> os</span><br><span class="line"><span class="keyword">import</span> string</span><br><span class="line"><span class="keyword">import</span> pyperclip</span><br><span class="line"><span class="comment"># 把url替换你需要爬取的链接</span></span><br><span class="line">url = <span class="string">'https://v.youku.com/v_show/id_XOTE0NDk1ODI0.html?spm=a2h0k.11417342.soresults.dtitle&amp;s=e524a4629c8f11e4b522'</span></span><br><span class="line">response = requests.get(url)</span><br><span class="line">response.encoding=response.apparent_encoding</span><br><span class="line"><span class="comment">#因为网站使用的不是通用的utf-8格式，而是gzip，所以要让它判断解码格式</span></span><br><span class="line">html = BeautifulSoup(response.text,<span class="string">'lxml'</span>)</span><br><span class="line"><span class="comment">#获取到的网页信息需要进行解析，使用lxml解析器，其实默认的解析器就是lxml，但是这里会出现警告提示，方便你对其他平台移植</span></span><br><span class="line">content=html.select(<span class="string">'#app &gt; div &gt; div.play-top-container &gt; div.l-container &gt; div.module-playbox &gt; div &gt; div.listbox &gt; div &gt; div.scroll-area &gt; div.anthology-content-scroll &gt; div:nth-child(2) &gt; div.anthology-content'</span>)</span><br><span class="line"><span class="comment">#将复制好的选择器信息放进select方法中，将获取到的内容作为tag形式放入一个列表中</span></span><br><span class="line"><span class="comment">#转换数据类型，不然会报错</span></span><br><span class="line">url = str(content)</span><br><span class="line"><span class="comment"># 正则表达式获取必要数据</span></span><br><span class="line">urls = re.findall(<span class="string">'[a-zA-z]+://[^\s]*'</span>, url)</span><br><span class="line"><span class="comment"># 处理字符串</span></span><br><span class="line">urls =str(urls)</span><br><span class="line">urls = urls.replace(<span class="string">'['</span>,<span class="string">''</span>).replace(<span class="string">']'</span>,<span class="string">''</span>).replace(<span class="string">','</span>,<span class="string">''</span>).replace(<span class="string">'"'</span>,<span class="string">''</span>).replace(<span class="string">'\''</span>,<span class="string">''</span>)</span><br><span class="line"><span class="comment">#把urls中的字符复制到剪切板</span></span><br><span class="line">pyperclip.copy(urls)</span><br></pre></td></tr></table></figure></div><h2 id="ffmpeg-mkv-转-MP4"><a href="#ffmpeg-mkv-转-MP4" class="headerlink" title="ffmpeg mkv 转 MP4"></a>ffmpeg mkv 转 MP4</h2><p>在文件目录打开目录行，执行如下命令，将 Givenchy.mkv 转成 Givenchy.mp4<br><code>powershellffmpeg -i Givenchy.mkv Givenchy.mp4</code></p><h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料:"></a>参考资料:</h2><p>1.<a href="https://zhuanlan.zhihu.com/p/103478279" target="_blank" rel="noopener">https://zhuanlan.zhihu.com/p/103478279</a><br>2.<a href="https://tool.oschina.net/regex/#" target="_blank" rel="noopener">https://tool.oschina.net/regex/#</a><br>3.<a href="https://blog.csdn.net/qq_30638831/article/details/81153011" target="_blank" rel="noopener">https://blog.csdn.net/qq_30638831/article/details/81153011</a><br>4.<a href="https://blog.csdn.net/My_THE/article/details/79961252" target="_blank" rel="noopener">https://blog.csdn.net/My_THE/article/details/79961252</a><br>5.<a href="https://www.jianshu.com/p/6bae57859325" target="_blank" rel="noopener">https://www.jianshu.com/p/6bae57859325</a><br>6.<a href="https://www.jianshu.com/p/dd7f04c27a79" target="_blank" rel="noopener">https://www.jianshu.com/p/dd7f04c27a79</a><br>7.<a href="https://blog.csdn.net/qq840166422/article/details/89553077" target="_blank" rel="noopener">https://blog.csdn.net/qq840166422/article/details/89553077</a><br>8.<a href="https://blog.csdn.net/qq_40491305/article/details/103272651" target="_blank" rel="noopener">https://blog.csdn.net/qq_40491305/article/details/103272651</a></p>]]></content>
       
       
       <categories>
@@ -189,11 +218,11 @@
             
             <tag> 软件 </tag>
             
+            <tag> 笔记 </tag>
+            
             <tag> PDF阅读器 </tag>
             
             <tag> windows </tag>
-            
-            <tag> 笔记 </tag>
             
             <tag> mindmap </tag>
             
@@ -257,9 +286,9 @@
             
             <tag> windows </tag>
             
-            <tag> Quicker </tag>
-            
             <tag> 文献查找 </tag>
+            
+            <tag> Quicker </tag>
             
             <tag> 使用分享 </tag>
             
@@ -290,11 +319,11 @@
       
         <tags>
             
+            <tag> 教程 </tag>
+            
             <tag> hexo </tag>
             
             <tag> blog </tag>
-            
-            <tag> 教程 </tag>
             
         </tags>
       
@@ -329,9 +358,9 @@
             
             <tag> windows </tag>
             
-            <tag> 翻译 </tag>
-            
             <tag> Quicker </tag>
+            
+            <tag> 翻译 </tag>
             
         </tags>
       
@@ -451,11 +480,11 @@
             
             <tag> 软件 </tag>
             
+            <tag> 笔记 </tag>
+            
             <tag> PDF阅读器 </tag>
             
             <tag> windows </tag>
-            
-            <tag> 笔记 </tag>
             
             <tag> mindmap </tag>
             
@@ -486,11 +515,11 @@
       
         <tags>
             
+            <tag> 教程 </tag>
+            
             <tag> hexo </tag>
             
             <tag> blog </tag>
-            
-            <tag> 教程 </tag>
             
         </tags>
       
@@ -519,11 +548,11 @@
       
         <tags>
             
+            <tag> 教程 </tag>
+            
             <tag> hexo </tag>
             
             <tag> blog </tag>
-            
-            <tag> 教程 </tag>
             
         </tags>
       
