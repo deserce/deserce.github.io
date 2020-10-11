@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://deserce.github.io/"/>
-  <updated>2020-08-31T05:46:23.819Z</updated>
+  <updated>2020-10-11T14:36:49.019Z</updated>
   <id>https://deserce.github.io/</id>
   
   <author>
@@ -15,6 +15,40 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>【娱乐】you-get 下载 哔哩哔哩 里面的视频！</title>
+    <link href="https://deserce.github.io/2020/10/10/20201010/"/>
+    <id>https://deserce.github.io/2020/10/10/20201010/</id>
+    <published>2020-10-10T06:57:07.000Z</published>
+    <updated>2020-10-11T14:36:49.019Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="【娱乐】you-get-下载-哔哩哔哩-里面的视频！"><a href="#【娱乐】you-get-下载-哔哩哔哩-里面的视频！" class="headerlink" title="【娱乐】you-get 下载 哔哩哔哩 里面的视频！"></a>【娱乐】you-get 下载 哔哩哔哩 里面的视频！</h1><blockquote><p>所有平台都可，以Windows10 演示</p></blockquote><h2 id="需要的一些软件"><a href="#需要的一些软件" class="headerlink" title="需要的一些软件:"></a>需要的一些软件:</h2><ul><li><p>python <a href="https://www.python.org/downloads/release" target="_blank" rel="noopener">下载地址</a></p></li><li><p><a href="https://code.visualstudio.com/" target="_blank" rel="noopener">vscode</a></p></li><li><p><a href="http://ffmpeg.org/" target="_blank" rel="noopener">ffmpeg</a></p></li><li><p>you-get <a href="https://github.com/soimort/you-get" target="_blank" rel="noopener">github</a></p></li></ul><h2 id="开整"><a href="#开整" class="headerlink" title="开整"></a>开整</h2><ol><li>安装<code>you-get</code>，在<code>vscode</code>里面执行命令行</li></ol><div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">Code</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">pip install you-get</span><br></pre></td></tr></table></figure></div><ol start="2"><li><p>安装<code>ffmepg</code>.<a href="https://www.jianshu.com/p/2b609afb9800" target="_blank" rel="noopener">安装方法点我</a></p></li><li><p>下载哔哩哔哩的视频以这个为例 <a href="https://www.bilibili.com/video/BV1h7411b73J" target="_blank" rel="noopener">https://www.bilibili.com/video/BV1h7411b73J</a><br><a href="https://i.loli.net/2020/10/10/OgMPyLQAtFYoGbC.png" data-fancybox="group" data-caption="image.png" class="fancybox"><img alt="image.png" data-src="https://i.loli.net/2020/10/10/OgMPyLQAtFYoGbC.png" class="lazyload" title="image.png"></a></p></li><li><p>这个视频有列表所以，我们可以使用这个命令<code>--playlist</code>把列表里面的视频全部下下来</p></li><li><p>首先打开<code>vscode</code>,在<code>trminal</code>使用<code>cd</code>命令切换到自己需要下载的位置，这里我们下载到<code>D:\UserData\Videos\考虫雅思</code>,使用下面的命令</p><div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">Code</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">cd D:\UserData\Videos\考虫雅思</span><br></pre></td></tr></table></figure></div><p><a href="https://i.loli.net/2020/10/10/mhrZfWj193bxLOI.png" data-fancybox="group" data-caption="image.png" class="fancybox"><img alt="image.png" data-src="https://i.loli.net/2020/10/10/mhrZfWj193bxLOI.png" class="lazyload" title="image.png"></a></p></li><li><p>使用 <code>you-get</code>来下载上面b站视频链接的所有视频。命令行格式如下</p><div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">Code</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight plain"><figcaption><span>--playlist [url]```</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">&gt; 如果只有一个视频可以用下面这种格式</span><br><span class="line">&gt; &#96;&#96;&#96;you-get  [url]</span><br></pre></td></tr></table></figure></div><p><code>you-get --playlist https://www.bilibili.com/video/BV1h7411b73J</code><br><a href="https://i.loli.net/2020/10/10/tBrqjbwUO2nfdNL.png" data-fancybox="group" data-caption="image.png" class="fancybox"><img alt="image.png" data-src="https://i.loli.net/2020/10/10/tBrqjbwUO2nfdNL.png" class="lazyload" title="image.png"></a><br>如果你看到类似上图的输出结果，就说明开始下载啦！接下来就是等待了。</p></li><li><p>好好享受吧！</p></li><li><p>最后<code>you-get</code>的详细说明可以<a href="https://github.com/soimort/you-get" target="_blank" rel="noopener">点我</a>。</p></li></ol>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;【娱乐】you-get-下载-哔哩哔哩-里面的视频！&quot;&gt;&lt;a href=&quot;#【娱乐】you-get-下载-哔哩哔哩-里面的视频！&quot; class=&quot;headerlink&quot; title=&quot;【娱乐】you-get 下载 哔哩哔哩 里面的视频！&quot;&gt;&lt;/a&gt;【娱乐】you-
+      
+    
+    </summary>
+    
+    
+      <category term="奇淫技巧" scheme="https://deserce.github.io/categories/%E5%A5%87%E6%B7%AB%E6%8A%80%E5%B7%A7/"/>
+    
+      <category term="娱乐" scheme="https://deserce.github.io/categories/%E5%A5%87%E6%B7%AB%E6%8A%80%E5%B7%A7/%E5%A8%B1%E4%B9%90/"/>
+    
+      <category term="视频欣赏" scheme="https://deserce.github.io/categories/%E5%A5%87%E6%B7%AB%E6%8A%80%E5%B7%A7/%E5%A8%B1%E4%B9%90/%E8%A7%86%E9%A2%91%E6%AC%A3%E8%B5%8F/"/>
+    
+    
+      <category term="教程" scheme="https://deserce.github.io/tags/%E6%95%99%E7%A8%8B/"/>
+    
+      <category term="you-get" scheme="https://deserce.github.io/tags/you-get/"/>
+    
+      <category term="PC端" scheme="https://deserce.github.io/tags/PC%E7%AB%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>python 数据分析第一弹——条形图绘制</title>
@@ -672,36 +706,6 @@
       <category term="you-get" scheme="https://deserce.github.io/tags/you-get/"/>
     
       <category term="PC端" scheme="https://deserce.github.io/tags/PC%E7%AB%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>20200323 子日三省己身？</title>
-    <link href="https://deserce.github.io/2020/03/23/20200323/"/>
-    <id>https://deserce.github.io/2020/03/23/20200323/</id>
-    <published>2020-03-23T12:18:07.000Z</published>
-    <updated>2020-03-24T10:06:27.347Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="20200323-子日三省己身？"><a href="#20200323-子日三省己身？" class="headerlink" title="20200323 子日三省己身？"></a>20200323 子日三省己身？</h1><p><strong>【鲁迅杂文】</strong> 随感录六十一不满</p><blockquote><p>&emsp;&emsp;<br>&emsp;&emsp;多有不自满的人的种族，永远前进，永远有希望。<br>&emsp;&emsp;<br>&emsp;&emsp;多有只知责人不知反省的人的种族，祸哉祸哉！<br>&emsp;&emsp;</p></blockquote><p><code>虚心使人进步，骄傲使人落后。</code></p><p>这句话咱大家是嘴边也不会挂了，为什么？</p><p>这句子多low啊！</p><p>没有low的句子，只有low的人。</p><p>既然你不愿意挂在嘴边，那烦请宁放在心里，不要拿出来说。</p><p>想必low的句子，所言明的low的道理你也不会认同。</p><blockquote><p>古人云:满招损,谦受益</p></blockquote><p>那古人说的正确与否？</p><p>总有故事在规劝我们，故事的真假难以考究。</p><p>因为我们信了这故事，便信了这个道理。</p><p>我们自己信了这个道理，便也要求别人信，不然我信了多吃亏啊！</p><hr><blockquote><p>谦谦君子温润如玉</p></blockquote><p>这就是中国人的风骨。</p><blockquote><p>多有只知责人不知反省的人的种族，祸哉祸哉！</p></blockquote><p>不能以偏概全，若只论部分又缺少意义？</p><p>只有解决大多数的人的问题，批评大多数人才有有意义？</p><p>我并不认同。</p><p>今有川建国，</p><p>甩锅一把好手，</p><p>又有最杰出的团队，</p><p>前任有什么用？</p><p>表面上他疯狂甩锅，盲目自大。</p><p>但是隐藏在粗犷外在下的他究竟是怎么样的一个人，我也不妄加猜测。</p><p>毕竟我对他了解的不多。</p><hr><p>我只想说，不论别人，只做自己。</p><p>己所欲，己所不欲，为人，为己。</p><p>时常反省，复盘，有时候挑挑大梁也不错。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h1 id=&quot;20200323-子日三省己身？&quot;&gt;&lt;a href=&quot;#20200323-子日三省己身？&quot; class=&quot;headerlink&quot; title=&quot;20200323 子日三省己身？&quot;&gt;&lt;/a&gt;20200323 子日三省己身？&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;【鲁迅杂文】
-      
-    
-    </summary>
-    
-    
-      <category term="胡思乱想" scheme="https://deserce.github.io/categories/%E8%83%A1%E6%80%9D%E4%B9%B1%E6%83%B3/"/>
-    
-      <category term="随文笔记" scheme="https://deserce.github.io/categories/%E8%83%A1%E6%80%9D%E4%B9%B1%E6%83%B3/%E9%9A%8F%E6%96%87%E7%AC%94%E8%AE%B0/"/>
-    
-    
-      <category term="读书" scheme="https://deserce.github.io/tags/%E8%AF%BB%E4%B9%A6/"/>
-    
-      <category term="share" scheme="https://deserce.github.io/tags/share/"/>
     
   </entry>
   

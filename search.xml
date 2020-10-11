@@ -4,6 +4,39 @@
   
     
     <entry>
+      <title>【娱乐】you-get 下载 哔哩哔哩 里面的视频！</title>
+      <link href="/2020/10/10/20201010/"/>
+      <url>/2020/10/10/20201010/</url>
+      
+        <content type="html"><![CDATA[<h1 id="【娱乐】you-get-下载-哔哩哔哩-里面的视频！"><a href="#【娱乐】you-get-下载-哔哩哔哩-里面的视频！" class="headerlink" title="【娱乐】you-get 下载 哔哩哔哩 里面的视频！"></a>【娱乐】you-get 下载 哔哩哔哩 里面的视频！</h1><blockquote><p>所有平台都可，以Windows10 演示</p></blockquote><h2 id="需要的一些软件"><a href="#需要的一些软件" class="headerlink" title="需要的一些软件:"></a>需要的一些软件:</h2><ul><li><p>python <a href="https://www.python.org/downloads/release" target="_blank" rel="noopener">下载地址</a></p></li><li><p><a href="https://code.visualstudio.com/" target="_blank" rel="noopener">vscode</a></p></li><li><p><a href="http://ffmpeg.org/" target="_blank" rel="noopener">ffmpeg</a></p></li><li><p>you-get <a href="https://github.com/soimort/you-get" target="_blank" rel="noopener">github</a></p></li></ul><h2 id="开整"><a href="#开整" class="headerlink" title="开整"></a>开整</h2><ol><li>安装<code>you-get</code>，在<code>vscode</code>里面执行命令行</li></ol><div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">Code</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">pip install you-get</span><br></pre></td></tr></table></figure></div><ol start="2"><li><p>安装<code>ffmepg</code>.<a href="https://www.jianshu.com/p/2b609afb9800" target="_blank" rel="noopener">安装方法点我</a></p></li><li><p>下载哔哩哔哩的视频以这个为例 <a href="https://www.bilibili.com/video/BV1h7411b73J" target="_blank" rel="noopener">https://www.bilibili.com/video/BV1h7411b73J</a><br><a href="https://i.loli.net/2020/10/10/OgMPyLQAtFYoGbC.png" data-fancybox="group" data-caption="image.png" class="fancybox"><img alt="image.png" data-src="https://i.loli.net/2020/10/10/OgMPyLQAtFYoGbC.png" class="lazyload" title="image.png"></a></p></li><li><p>这个视频有列表所以，我们可以使用这个命令<code>--playlist</code>把列表里面的视频全部下下来</p></li><li><p>首先打开<code>vscode</code>,在<code>trminal</code>使用<code>cd</code>命令切换到自己需要下载的位置，这里我们下载到<code>D:\UserData\Videos\考虫雅思</code>,使用下面的命令</p><div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">Code</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">cd D:\UserData\Videos\考虫雅思</span><br></pre></td></tr></table></figure></div><p><a href="https://i.loli.net/2020/10/10/mhrZfWj193bxLOI.png" data-fancybox="group" data-caption="image.png" class="fancybox"><img alt="image.png" data-src="https://i.loli.net/2020/10/10/mhrZfWj193bxLOI.png" class="lazyload" title="image.png"></a></p></li><li><p>使用 <code>you-get</code>来下载上面b站视频链接的所有视频。命令行格式如下</p><div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">Code</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight plain"><figcaption><span>--playlist [url]```</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">&gt; 如果只有一个视频可以用下面这种格式</span><br><span class="line">&gt; &#96;&#96;&#96;you-get  [url]</span><br></pre></td></tr></table></figure></div><p><code>you-get --playlist https://www.bilibili.com/video/BV1h7411b73J</code><br><a href="https://i.loli.net/2020/10/10/tBrqjbwUO2nfdNL.png" data-fancybox="group" data-caption="image.png" class="fancybox"><img alt="image.png" data-src="https://i.loli.net/2020/10/10/tBrqjbwUO2nfdNL.png" class="lazyload" title="image.png"></a><br>如果你看到类似上图的输出结果，就说明开始下载啦！接下来就是等待了。</p></li><li><p>好好享受吧！</p></li><li><p>最后<code>you-get</code>的详细说明可以<a href="https://github.com/soimort/you-get" target="_blank" rel="noopener">点我</a>。</p></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> 奇淫技巧 </category>
+          
+          <category> 娱乐 </category>
+          
+          <category> 视频欣赏 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 教程 </tag>
+            
+            <tag> you-get </tag>
+            
+            <tag> PC端 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>python 数据分析第一弹——条形图绘制</title>
       <link href="/2020/08/28/20200828/"/>
       <url>/2020/08/28/20200828/</url>
