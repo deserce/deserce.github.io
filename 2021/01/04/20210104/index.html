@@ -1,0 +1,183 @@
+<!DOCTYPE html><html lang="zh-TW" data-theme="light"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5"><title>读林园摘记一 确定性 【20210104 】 | Tiny share !</title><meta name="description" content="读林园摘记一 确定性 【20210104 】"><meta name="keywords" content="理财,思维,股市,复盘,可转债"><meta name="author" content="deserce"><meta name="copyright" content="deserce"><meta name="format-detection" content="telephone=no"><link rel="shortcut icon" href="/img/favicon.ico"><link rel="preconnect" href="//cdn.jsdelivr.net"><link rel="preconnect" href="https://fonts.googleapis.com" crossorigin><link rel="preconnect" href="//busuanzi.ibruce.info"><meta name="google-site-verification" content="IVopoNuOSqaUlMNaSNJEU7KGbTu-xpGFsS86M2Xx76w"><meta name="msvalidate.01" content="764FA7EB8626FCAEFBE4B5D79B043178"><meta name="baidu-site-verification" content="u4pqOsDiQr"><meta name="360-site-verification" content="fc7c3f2c7eb1911059c24db9b9f8ade2"><meta name="twitter:card" content="summary"><meta name="twitter:title" content="读林园摘记一 确定性 【20210104 】"><meta name="twitter:description" content="读林园摘记一 确定性 【20210104 】"><meta name="twitter:image" content="https://images.unsplash.com/photo-1518186285589-2f7649de83e0?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=1567&amp;q=80"><meta property="og:type" content="article"><meta property="og:title" content="读林园摘记一 确定性 【20210104 】"><meta property="og:url" content="https://deserce.github.io/2021/01/04/20210104/"><meta property="og:site_name" content="Tiny share !"><meta property="og:description" content="读林园摘记一 确定性 【20210104 】"><meta property="og:image" content="https://images.unsplash.com/photo-1518186285589-2f7649de83e0?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=1567&amp;q=80"><meta http-equiv="Cache-Control" content="no-transform"><meta http-equiv="Cache-Control" content="no-siteapp"><script src="https://cdn.jsdelivr.net/npm/js-cookie/dist/js.cookie.min.js"></script><script>const autoChangeMode = 'false'
+var t = Cookies.get("theme");
+if (autoChangeMode == '1'){
+const isDarkMode = window.matchMedia("(prefers-color-scheme: dark)").matches
+const isLightMode = window.matchMedia("(prefers-color-scheme: light)").matches
+const isNotSpecified = window.matchMedia("(prefers-color-scheme: no-preference)").matches
+const hasNoSupport = !isDarkMode && !isLightMode && !isNotSpecified
+
+if (t === undefined){
+  if (isLightMode) activateLightMode()
+  else if (isDarkMode) activateDarkMode()
+  else if (isNotSpecified || hasNoSupport){
+    console.log('You specified no preference for a color scheme or your browser does not support it. I Schedule dark mode during night time.')
+    now = new Date();
+    hour = now.getHours();
+    isNight = hour < 6 || hour >= 18
+    isNight ? activateDarkMode() : activateLightMode()
+}
+} else if (t == 'light') activateLightMode()
+else activateDarkMode()
+
+
+} else if (autoChangeMode == '2'){
+  now = new Date();
+  hour = now.getHours();
+  isNight = hour < 6 || hour >= 18
+  if(t === undefined) isNight? activateDarkMode() : activateLightMode()
+  else if (t === 'light') activateLightMode()
+  else activateDarkMode() 
+} else {
+  if ( t == 'dark' ) activateDarkMode()
+  else if ( t == 'light') activateLightMode()
+}
+
+function activateDarkMode(){
+  document.documentElement.setAttribute('data-theme', 'dark')
+  if (document.querySelector('meta[name="theme-color"]') !== null){
+    document.querySelector('meta[name="theme-color"]').setAttribute('content','#000')
+  }
+}
+function activateLightMode(){
+  document.documentElement.setAttribute('data-theme', 'light')
+  if (document.querySelector('meta[name="theme-color"]') !== null){
+  document.querySelector('meta[name="theme-color"]').setAttribute('content','#fff')
+  }
+}</script><link rel="stylesheet" href="/css/index.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome@latest/css/font-awesome.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@latest/dist/jquery.fancybox.min.css"><link rel="canonical" href="https://deserce.github.io/2021/01/04/20210104/"><link rel="prev" title="读林园摘记二  无风险套利 【20210105 】" href="https://deserce.github.io/2021/01/05/20210105/"><link rel="next" title="回顾及展望【20210101 】" href="https://deserce.github.io/2021/01/01/20210101/"><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.5/dist/instantsearch.min.css"><script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.5/dist/instantsearch.min.js" defer></script><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Titillium+Web"><script>var GLOBAL_CONFIG = { 
+  root: '/',
+  algolia: {"appId":"KFBUGZMHZ3","apiKey":"af381ddddca0bb41846b615e01c84417","indexName":"blog","hits":{"per_page":6},"languages":{"input_placeholder":"搜索文章","hits_empty":"找不到您查詢的內容:${query}","hits_stats":"找到 ${hits} 條結果，用時 ${time} 毫秒"}},
+  localSearch: undefined,
+  translate: {"defaultEncoding":2,"translateDelay":0,"cookieDomain":"https://deserce.github.io/","msgToTraditionalChinese":"繁","msgToSimplifiedChinese":"简"},
+  copy: {
+    success: '複製成功',
+    error: '複製錯誤',
+    noSupport: '瀏覽器不支持'
+  },
+  bookmark: {
+    title: 'Snackbar.bookmark.title',
+    message_prev: '按',
+    message_next: '鍵將本頁加入書籤'
+  },
+  runtime_unit: '天',
+  runtime: true,
+  copyright: undefined,
+  ClickShowText: undefined,
+  medium_zoom: true,
+  fancybox: true,
+  Snackbar: undefined,
+  baiduPush: false,
+  isHome: false,
+  isPost: true
+  
+}</script><meta name="generator" content="Hexo 4.2.0"><link rel="alternate" href="/atom.xml" title="Tiny share !" type="application/atom+xml">
+</head><body><header> <div id="page-header"><span class="pull_left" id="blog_name"><a class="blog_title" id="site-name" href="/">Tiny share !</a></span><span class="toggle-menu pull_right close"><a class="site-page"><i class="fa fa-bars fa-fw" aria-hidden="true"></i></a></span><span class="pull_right menus"><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fa fa-home"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page" href="/archives/"><i class="fa-fw fa fa-archive"></i><span> 归档</span></a></div><div class="menus_item"><a class="site-page" href="/tags/"><i class="fa-fw fa fa-tags"></i><span> 标签</span></a></div><div class="menus_item"><a class="site-page" href="/categories/"><i class="fa-fw fa fa-folder-open"></i><span> 分类</span></a></div><div class="menus_item"><a class="site-page" href="/link/"><i class="fa-fw fa fa-link"></i><span> 链接</span></a></div><div class="menus_item"><a class="site-page"><i class="fa-fw fa fa-list" aria-hidden="true"></i><span> 娱乐</span><i class="fa fa-chevron-down menus-expand" aria-hidden="true"></i></a><ul class="menus_item_child"><li><a class="site-page" href="/movies/"><i class="fa-fw fa fa-film"></i><span> 电影</span></a></li><li><a class="site-page" href="/books/"><i class="fa-fw fa fa-book"></i><span> 书籍</span></a></li></ul></div></div></span><span class="pull_right" id="search_button"><a class="site-page social-icon search"><i class="fa fa-search fa-fw"></i><span> 搜索</span></a></span></div></header><div id="mobile-sidebar"><div id="menu_mask"></div><div id="mobile-sidebar-menus"><div class="mobile_author_icon"><img class="avatar-img" src="/img/avatar.png" onerror="onerror=null;src='/img/friend_404.gif'" alt="avatar"></div><div class="mobile_post_data"><div class="mobile_data_item is-center"><div class="mobile_data_link"><a href="/archives/"><div class="headline">文章</div><div class="length_num">52</div></a></div></div><div class="mobile_data_item is-center">      <div class="mobile_data_link"><a href="/tags/"><div class="headline">標籤</div><div class="length_num">55</div></a></div></div><div class="mobile_data_item is-center">     <div class="mobile_data_link"><a href="/categories/"><div class="headline">分類</div><div class="length_num">29</div></a></div></div></div><hr><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fa fa-home"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page" href="/archives/"><i class="fa-fw fa fa-archive"></i><span> 归档</span></a></div><div class="menus_item"><a class="site-page" href="/tags/"><i class="fa-fw fa fa-tags"></i><span> 标签</span></a></div><div class="menus_item"><a class="site-page" href="/categories/"><i class="fa-fw fa fa-folder-open"></i><span> 分类</span></a></div><div class="menus_item"><a class="site-page" href="/link/"><i class="fa-fw fa fa-link"></i><span> 链接</span></a></div><div class="menus_item"><a class="site-page"><i class="fa-fw fa fa-list" aria-hidden="true"></i><span> 娱乐</span><i class="fa fa-chevron-down menus-expand" aria-hidden="true"></i></a><ul class="menus_item_child"><li><a class="site-page" href="/movies/"><i class="fa-fw fa fa-film"></i><span> 电影</span></a></li><li><a class="site-page" href="/books/"><i class="fa-fw fa fa-book"></i><span> 书籍</span></a></li></ul></div></div></div><div id="mobile-sidebar-toc"><div class="toc_mobile_headline">目錄</div><div class="sidebar-toc__content"><ol class="toc_mobile_items"><li class="toc_mobile_items-item toc_mobile_items-level-2"><a class="toc_mobile_items-link" href="#读林园摘记一-确定性-【20210104-】"><span class="toc_mobile_items-number">1.</span> <span class="toc_mobile_items-text">读林园摘记一 确定性 【20210104 】</span></a><ol class="toc_mobile_items-child"><li class="toc_mobile_items-item toc_mobile_items-level-3"><a class="toc_mobile_items-link" href="#巴菲特把握确定性的十种方法"><span class="toc_mobile_items-number">1.1.</span> <span class="toc_mobile_items-text">巴菲特把握确定性的十种方法</span></a></li><li class="toc_mobile_items-item toc_mobile_items-level-3"><a class="toc_mobile_items-link" href="#林园关于确定性投资的理念"><span class="toc_mobile_items-number">1.2.</span> <span class="toc_mobile_items-text">林园关于确定性投资的理念</span></a></li><li class="toc_mobile_items-item toc_mobile_items-level-3"><a class="toc_mobile_items-link" href="#确定性最高的三类企业"><span class="toc_mobile_items-number">1.3.</span> <span class="toc_mobile_items-text">确定性最高的三类企业</span></a></li><li class="toc_mobile_items-item toc_mobile_items-level-3"><a class="toc_mobile_items-link" href="#买入"><span class="toc_mobile_items-number">1.4.</span> <span class="toc_mobile_items-text">买入</span></a></li><li class="toc_mobile_items-item toc_mobile_items-level-3"><a class="toc_mobile_items-link" href="#持有"><span class="toc_mobile_items-number">1.5.</span> <span class="toc_mobile_items-text">持有</span></a></li><li class="toc_mobile_items-item toc_mobile_items-level-3"><a class="toc_mobile_items-link" href="#卖出"><span class="toc_mobile_items-number">1.6.</span> <span class="toc_mobile_items-text">卖出</span></a></li><li class="toc_mobile_items-item toc_mobile_items-level-3"><a class="toc_mobile_items-link" href="#读者笔记"><span class="toc_mobile_items-number">1.7.</span> <span class="toc_mobile_items-text">读者笔记</span></a><ol class="toc_mobile_items-child"><li class="toc_mobile_items-item toc_mobile_items-level-4"><a class="toc_mobile_items-link" href="#选股方面："><span class="toc_mobile_items-number">1.7.1.</span> <span class="toc_mobile_items-text">选股方面：</span></a></li><li class="toc_mobile_items-item toc_mobile_items-level-4"><a class="toc_mobile_items-link" href="#买卖点选择"><span class="toc_mobile_items-number">1.7.2.</span> <span class="toc_mobile_items-text">买卖点选择</span></a></li><li class="toc_mobile_items-item toc_mobile_items-level-4"><a class="toc_mobile_items-link" href="#心态方面"><span class="toc_mobile_items-number">1.7.3.</span> <span class="toc_mobile_items-text">心态方面</span></a></li></ol></li></ol></li></ol></div></div></div><div id="body-wrap"><div id="web_bg" data-type="color"></div><i class="fa fa-arrow-right" id="toggle-sidebar" aria-hidden="true">     </i><div class="auto_open" id="sidebar"><div class="sidebar-toc"><div class="sidebar-toc__title">目錄</div><div class="sidebar-toc__progress"><span class="progress-notice">你已經讀了</span><span class="progress-num">0</span><span class="progress-percentage">%</span><div class="sidebar-toc__progress-bar">     </div></div><div class="sidebar-toc__content"><ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#读林园摘记一-确定性-【20210104-】"><span class="toc-number">1.</span> <span class="toc-text">读林园摘记一 确定性 【20210104 】</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#巴菲特把握确定性的十种方法"><span class="toc-number">1.1.</span> <span class="toc-text">巴菲特把握确定性的十种方法</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#林园关于确定性投资的理念"><span class="toc-number">1.2.</span> <span class="toc-text">林园关于确定性投资的理念</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#确定性最高的三类企业"><span class="toc-number">1.3.</span> <span class="toc-text">确定性最高的三类企业</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#买入"><span class="toc-number">1.4.</span> <span class="toc-text">买入</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#持有"><span class="toc-number">1.5.</span> <span class="toc-text">持有</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#卖出"><span class="toc-number">1.6.</span> <span class="toc-text">卖出</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#读者笔记"><span class="toc-number">1.7.</span> <span class="toc-text">读者笔记</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#选股方面："><span class="toc-number">1.7.1.</span> <span class="toc-text">选股方面：</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#买卖点选择"><span class="toc-number">1.7.2.</span> <span class="toc-text">买卖点选择</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#心态方面"><span class="toc-number">1.7.3.</span> <span class="toc-text">心态方面</span></a></li></ol></li></ol></li></ol></div></div></div><main id="content-outer"><div id="top-container" style="background-image: url(https://images.unsplash.com/photo-1518186285589-2f7649de83e0?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=1567&amp;q=80)"><div id="post-info"><div id="post-title"><div class="posttitle">读林园摘记一 确定性 【20210104 】</div></div><div id="post-meta"><time class="post-meta__date"><i class="fa fa-calendar fa-fw" aria-hidden="true"></i> 發表於 2021-01-04<span class="post-meta__separator">|</span><i class="fa fa-history fa-fw" aria-hidden="true"></i> 更新於 2021-01-04</time><span class="post-meta__separator">|</span><span><i class="fa fa-inbox post-meta__icon fa-fw" aria-hidden="true"></i><a class="post-meta__categories" href="/categories/%E8%87%AA%E6%88%91%E6%95%91%E8%B5%8E/">自我救赎</a><i class="fa fa-angle-right fa-fw" aria-hidden="true"></i><i class="fa fa-inbox post-meta__icon fa-fw" aria-hidden="true"></i><a class="post-meta__categories" href="/categories/%E8%87%AA%E6%88%91%E6%95%91%E8%B5%8E/%E6%8A%95%E8%B5%84/">投资</a><i class="fa fa-angle-right fa-fw" aria-hidden="true"></i><i class="fa fa-inbox post-meta__icon fa-fw" aria-hidden="true"></i><a class="post-meta__categories" href="/categories/%E8%87%AA%E6%88%91%E6%95%91%E8%B5%8E/%E6%8A%95%E8%B5%84/%E8%82%A1%E6%B5%B7%E6%B2%89%E6%B5%AE/">股海沉浮</a><i class="fa fa-angle-right fa-fw" aria-hidden="true"></i><i class="fa fa-inbox post-meta__icon fa-fw" aria-hidden="true"></i><a class="post-meta__categories" href="/categories/%E8%87%AA%E6%88%91%E6%95%91%E8%B5%8E/%E6%8A%95%E8%B5%84/%E8%82%A1%E6%B5%B7%E6%B2%89%E6%B5%AE/%E5%8F%AF%E8%BD%AC%E5%80%BA/">可转债</a></span><div class="post-meta-wordcount"><i class="fa fa-file-word-o post-meta__icon fa-fw" aria-hidden="true"></i><span>字數總計:</span><span class="word-count">2.6k</span><span class="post-meta__separator">|</span><i class="fa fa-clock-o post-meta__icon fa-fw" aria-hidden="true"></i><span>閲讀時長: 7 分鐘</span><div class="post-meta-pv-cv"><span class="post-meta__separator">|</span><span><i class="fa fa-eye post-meta__icon fa-fw" aria-hidden="true"> </i>閲讀量:</span><span id="busuanzi_value_page_pv"></span></div></div></div></div></div><div class="layout layout_post" id="content-inner">   <article id="post"><div class="article-container" id="post-content"><h2 id="读林园摘记一-确定性-【20210104-】"><a href="#读林园摘记一-确定性-【20210104-】" class="headerlink" title="读林园摘记一 确定性 【20210104 】"></a>读林园摘记一 确定性 【20210104 】</h2><p>林园选股的铁律是：</p>
+<ol>
+<li>选自己熟悉的行业  </li>
+<li>要买跟踪三年以上的企业  </li>
+<li>选未来三年“账好算”的企业，不买未来盈利不确定的公司 </li>
+</ol>
+<p>为了降低投资的不确定性，林园日常重点研究的股票不超过 30 只。每年新增加跟踪的股票限制在 5 只以内。对公司销售状况和经营前景的熟悉程度，林园自认为比一些公司的董事长还要到位。</p>
+<h3 id="巴菲特把握确定性的十种方法"><a href="#巴菲特把握确定性的十种方法" class="headerlink" title="巴菲特把握确定性的十种方法"></a>巴菲特把握确定性的十种方法</h3><hr>
+<p>1．“研究我们过去对子公司和普通股的投资时，你会看到我们偏爱那些不太可能发生重大变化的公司和产业。”“经验表明，盈利能力最好的企业，经常是那些现在的经营方式与五年前甚至十年前几乎完全相同的企业。”——<strong>长期稳定的老字号公司，依然拥有最好的盈利能力，未来不会有太多变数。</strong></p>
+<p>2．“一座城堡似的坚不可摧的经济特许权正是企业持续取得超额利润的关键所在。”“一项经济特许权的形成，来自于具有以下特征的一种产品或服务：①它是顾客需要或者希望得到的；②被顾客认定为找不到很类似的替代品；③不受价格上的管制。以上三个特点的存在，将会体现为一个公司能够对所提供的产品与服务进行主动提价，从而赚取更高的资<br>本报酬率。”——<strong>公司经营领域的排他性，确保未来垄断利润的长期独享。</strong></p>
+<p>3．“对于投资来说，关键不是确定某个产业对社会的影响力有多大，或者这个产业将会增长多少，而是要确定所选择的任何一家企业的竞争优势，而且更重要的是确定这种优势的持续性。那些所提供的产品或服务具有很强竞争优势的企业能为投资者带来满意的回报。”——<strong>先人一步的竞争优势是未来的保障。</strong> </p>
+<p>4．“我们持续受惠于这些所持股公司的超凡出众的经理人。他们品德高尚、能力出众、始终为股东着想，我们投资<br>这些公司所取得的非凡的投资回报，恰恰反映了这些经理人非凡的个人品质。”——<strong>有人品担保，公司至少不会误入歧途。</strong></p>
+<p>5．“我们从来不看什么公司战略规划，<strong>我们关注而且非常深入分析的是公司资本分配决策的历史记录</strong>。”“一旦成<br>为 CEO，他们需要承担新的责任，他们开始必须进行资本配置决策，这是一项至关重要的工作。”——<strong>计划赶不上变化，一个人的习惯不容易改变，公司的经营习惯也是如此。</strong></p>
+<p>6．“真正能够让你投资赚大钱的公司，大部分都有相对偏高的利润率。通常它们在业内有最高的利润率。”——<strong>高利润率保证企业有足够的现金流用于发展</strong>。</p>
+<table>
+<td bgcolor="FFFF99"><font color="0">（有了以上 5 条准则，公司的盈利能力高于业内平均利润率的既定事实一般会持续很长时间。）</font></td>
+</table>
+
+
+<p>7．“对公司经营管理业绩的最佳衡量标准，是能否取得较高的<strong>权益资本收益率</strong>，而不是每股收益的增加。”——衡量内在价值，即权益资本收益率， 是未来公司创造价值的核心。  </p>
+<p>8．“在这个巨大的股票拍卖场中，我们的工作是选择具有如下经济特性的企业：每一美元的留存收益最终能够转化成至少一美元的市场价值。”——<strong>收益转化成市场价值，企业才有更好的未来。</strong>  </p>
+<p>9．“内在价值是一个非常重要的概念，它为评估投资和企业的相对吸引力提供了唯一的逻辑手段。”“内在价值可以简单地定义如下：它是一家企业在其存续期间可以产生的现金流量的贴现值。”——<strong>现金流量的贴现值，所依据的标准就是国债利率。</strong></p>
+<p>10．“我们在买入价格上坚持留有一个安全边际。如果我们计算出一只普通股的价值仅仅略高于它的价格，那么我们不会对买入产生兴趣。我们相信这种‘安全边际’原则——本•格雷厄姆尤其强调这一点——是投资成功的基石。”——等于是折价买入国债！利用市场先生的错误，是巴菲特投资思想的一个重点。</p>
+<hr>
+<h3 id="林园关于确定性投资的理念"><a href="#林园关于确定性投资的理念" class="headerlink" title="林园关于确定性投资的理念"></a>林园关于确定性投资的理念</h3><p>买股票就是买公司，<strong>公司的盈利一定要确定</strong></p>
+<p>那么如何才能把握投资的确定性呢？</p>
+<blockquote>
+<p>就是<strong>做自己能够把握的</strong>事，把命运掌握在自己手中。你对哪一个行业比较<strong>熟悉</strong>，能够把握哪些企业的走势，你就去买进它的股票，对于那些不熟悉的、不能准确判断其未来走势的企业股票一定不要买进。买股票就是买公司，公司经营的确定性最重要。所以，投资者<strong>一定不能投资盈利没有确定性</strong>的公司。另外，投资者买入股票当时的股价是否能让他们盈利，也是投资者决定是否买进需考虑的重要因素。即便是盈利确定的公司，若股价<strong>没有上涨空间</strong>，也不能投资。</p>
+</blockquote>
+<hr>
+<h3 id="确定性最高的三类企业"><a href="#确定性最高的三类企业" class="headerlink" title="确定性最高的三类企业"></a>确定性最高的三类企业</h3><p>根据巴菲特的说法，经济市场是由一小群有特许权的团体，和大部分无特许权的商品企业团体所组成。后者，其中的大多数是不值得投资的。他将小部分拥有特许权的团体，定义成是提供商品和服务的企业，而这些商品和服务是：  </p>
+<ol>
+<li>有消费需求的  </li>
+<li>无近似替代性产品  </li>
+<li>不属于法律约束范围</li>
+</ol>
+<ul>
+<li><p>垄断：【机场、高速公路等】</p>
+<blockquote>
+<p>在实践上，根据垄断的成因，可将垄断的市场结构分成三种类型：一是自然垄断性市场，即由于技术和自然因素，某一行业只有一个或几个经营者独占或分享该行业的有限资源而导致的市场垄断。二是经济垄断性市场，即一个或几个经营者，通过竞争、联合、兼并、购买形成了规模经济优势，控制了该行业产品的生产和销售所形成的市场垄断。三是行政垄断性市场，即政府及所属部门运用行政权力，以垄断经营、特许经营权等方式构造行业壁垒，使某一行业只有一个<br>或几个经营者独占或分享该行业的资源和提供产品而形成的市场垄断。</p>
+</blockquote>
+</li>
+<li><p>老字号:【云南白药、同仁堂、贵州茅台、五粮液、马应龙】</p>
+</li>
+</ul>
+<blockquote>
+<p>这类企业也就是林园常说的“红烧肉”、“粉蒸肉”的故事。“红烧肉”、“粉蒸肉”之所以能够千百年地传承下来而没有消失，自然有它的道理，那就是其品牌值得信赖、产品质量过硬。事实上，真正能经得起时间考验的好产品是很少的，而且，随着中国经济的发展，中国独有的这些“好东西”会逐步传遍到世界各地，这些品牌企业或者老字号产品是最有机会“全球化”的，市场在逐步扩大，利润也会同步放大，而这些“老字号”由于其产品的“独有性”，其定价能力非常强、产品毛利率都很稳定，因此，买入这些公司的股票风险是相当有限的。</p>
+</blockquote>
+<ul>
+<li>龙头:【招商银行、中集、江中制药、伊利牛奶、瑞贝卡】</li>
+</ul>
+<p>往往能在市场竞争中脱颖而出的龙头企业都被市场证明是后劲十足的。</p>
+<hr>
+<h3 id="买入"><a href="#买入" class="headerlink" title="买入"></a>买入</h3><p><strong>安全边际</strong>作为价值投资概念的核心，在整个价值投资领域中处于至高无上的地位。它的定义非常简单：实质价值或内在价值与价格的顺差，换一种更通俗的说法，安全边际就是价值与价格相比被低估的程度或幅度。</p>
+<ol>
+<li>合理价格【耐心等待合理的买点】</li>
+<li>选择行业【确定性高的行业】</li>
+<li>选择龙头【有老大就不选老二】</li>
+</ol>
+<hr>
+<h3 id="持有"><a href="#持有" class="headerlink" title="持有"></a>持有</h3><p>耐心持有，等待卖点</p>
+<hr>
+<h3 id="卖出"><a href="#卖出" class="headerlink" title="卖出"></a>卖出</h3><p>林园在三种情况下卖出他持有的股票：</p>
+<ol>
+<li>公司经营出现困难，毛利率持续下降；  </li>
+<li>发现性价比更好的公司；  </li>
+<li>做资产配置，需要同比例下调所持股票比例，以抵御市场风险。 </li>
+</ol>
+<p>总之，他卖出股票时机是非常灵活的，这就是“投机”。</p>
+<hr>
+<h3 id="读者笔记"><a href="#读者笔记" class="headerlink" title="读者笔记"></a>读者笔记</h3><p>确定性这一节主要还是集中火力在标的的选择上。</p>
+<p>核心思想就是买公司，公司的盈利一定要确定。</p>
+<ol>
+<li>选自己熟悉的行业  </li>
+<li>要买跟踪三年以上的企业  </li>
+<li>选未来三年“账好算”的企业，不买未来盈利不确定的公司 </li>
+</ol>
+<p>什么时候买？</p>
+<p>耐心等待高安全边际买入机会。</p>
+<p>什么时候卖？</p>
+<p>公司经营出现问题，调仓性价比更高的标的。</p>
+<p>我的体系从中需要汲取什么？</p>
+<h4 id="选股方面："><a href="#选股方面：" class="headerlink" title="选股方面："></a>选股方面：</h4><p><strong>确定性</strong>是选中长期稳定龙头的一个必不可少的条件。</p>
+<p>选择优质赛道【👉 垄断、龙头、老字号】中财务，企业业务优秀的龙头标的。</p>
+<p>持续跟踪分析目标【业务优势 👉 PEST（P是政治（Politics），E是经济（Economy），S是社会（Society），T是技术（Technology） 】</p>
+<h4 id="买卖点选择"><a href="#买卖点选择" class="headerlink" title="买卖点选择"></a>买卖点选择</h4><p>结合周期运行规律，<strong>耐心</strong>等待高安全边际的买点【有的时候卖点是做T的买点】，<strong>耐心</strong>等待合适的卖点【有的时候卖点是做T的卖点】。</p>
+<h4 id="心态方面"><a href="#心态方面" class="headerlink" title="心态方面"></a>心态方面</h4><p>忘掉日内毛刺，只要长期看好，拿着完事儿。</p>
+<blockquote>
+<p>市场就像墓地，里面的人出不去，外面的人却终究要进来.</p>
+</blockquote>
+</div></article><div class="post-copyright"><div class="post-copyright__author"><span class="post-copyright-meta">文章作者: </span><span class="post-copyright-info"><a href="mailto:undefined">deserce</a></span></div><div class="post-copyright__type"><span class="post-copyright-meta">文章鏈接: </span><span class="post-copyright-info"><a href="https://deserce.github.io/2021/01/04/20210104/">https://deserce.github.io/2021/01/04/20210104/</a></span></div><div class="post-copyright__notice"><span class="post-copyright-meta">版權聲明: </span><span class="post-copyright-info">本博客所有文章除特別聲明外，均採用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a> 許可協議。轉載請註明來自 <a href="https://deserce.github.io" target="_blank">Tiny share !</a>！</span></div></div><div class="tag_share"><div class="post-meta__tag-list"><a class="post-meta__tags" href="/tags/%E7%90%86%E8%B4%A2/">理财    </a><a class="post-meta__tags" href="/tags/%E6%80%9D%E7%BB%B4/">思维    </a><a class="post-meta__tags" href="/tags/%E8%82%A1%E5%B8%82/">股市    </a><a class="post-meta__tags" href="/tags/%E5%A4%8D%E7%9B%98/">复盘    </a><a class="post-meta__tags" href="/tags/%E5%8F%AF%E8%BD%AC%E5%80%BA/">可转债    </a></div><div class="post_share"><div class="social-share" data-image="https://images.unsplash.com/photo-1518186285589-2f7649de83e0?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=1567&amp;q=80" data-sites="facebook,twitter,wechat,weibo,qq"></div><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/social-share.js/dist/css/share.min.css"><script src="https://cdn.jsdelivr.net/npm/social-share.js/dist/js/social-share.min.js"></script></div></div><div class="post-reward"><a class="reward-button button--primary button--animated"> <i class="fa fa-qrcode"></i> 打賞<div class="reward-main"><ul class="reward-all"><li class="reward-item"><img class="lazyload post-qr-code__img" src="/img/wechat.jpg" alt="微信"><div class="post-qr-code__desc">微信</div></li><li class="reward-item"><img class="lazyload post-qr-code__img" src="/img/alipay.jpg" alt="支付寶"><div class="post-qr-code__desc">支付寶</div></li></ul></div></a></div><nav class="pagination_post" id="pagination"><div class="prev-post pull_left"><a href="/2021/01/05/20210105/"><img class="prev_cover lazyload" data-src="https://images.unsplash.com/photo-1518186285589-2f7649de83e0?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=1567&amp;q=80" onerror="onerror=null;src='/img/404.jpg'"><div class="label">上一篇</div><div class="prev_info"><span>读林园摘记二  无风险套利 【20210105 】</span></div></a></div><div class="next-post pull_right"><a href="/2021/01/01/20210101/"><img class="next_cover lazyload" data-src="https://images.unsplash.com/photo-1518186285589-2f7649de83e0?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=1567&amp;q=80" onerror="onerror=null;src='/img/404.jpg'"><div class="label">下一篇</div><div class="next_info"><span>回顾及展望【20210101 】</span></div></a></div></nav><div class="relatedPosts"><div class="relatedPosts_headline"><i class="fa fa-fw fa-thumbs-up" aria-hidden="true"></i><span> 相關推薦</span></div><div class="relatedPosts_list"><div class="relatedPosts_item"><a href="/2021/03/08/20210308/" title="行业研究进化史【一】"><img class="relatedPosts_cover lazyload"data-src="https://images.unsplash.com/photo-1518186285589-2f7649de83e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80"><div class="relatedPosts_main is-center"><div class="relatedPosts_date"><i class="fa fa-calendar fa-fw" aria-hidden="true"></i> 2021-03-08</div><div class="relatedPosts_title">行业研究进化史【一】</div></div></a></div><div class="relatedPosts_item"><a href="/2021/01/13/20210113/" title="读林园摘记四和五  【20210113】"><img class="relatedPosts_cover lazyload"data-src="https://images.unsplash.com/photo-1518186285589-2f7649de83e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80"><div class="relatedPosts_main is-center"><div class="relatedPosts_date"><i class="fa fa-calendar fa-fw" aria-hidden="true"></i> 2021-01-13</div><div class="relatedPosts_title">读林园摘记四和五  【20210113】</div></div></a></div><div class="relatedPosts_item"><a href="/2021/01/11/20210111/" title="读林园摘记三  挑选公司六大财务指标 【20210111】"><img class="relatedPosts_cover lazyload"data-src="https://images.unsplash.com/photo-1518186285589-2f7649de83e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80"><div class="relatedPosts_main is-center"><div class="relatedPosts_date"><i class="fa fa-calendar fa-fw" aria-hidden="true"></i> 2021-01-11</div><div class="relatedPosts_title">读林园摘记三  挑选公司六大财务指标 【20210111】</div></div></a></div></div><div class="clear_both"></div></div><hr><div id="post-comment"><div class="comment_headling"><i class="fa fa-comments fa-fw" aria-hidden="true"></i><span> 評論</span></div><div class="vcomment" id="vcomment"></div><script src="https://cdn.jsdelivr.net/npm/valine/dist/Valine.min.js"></script><script>var notify = false == true ? true : false;
+var verify = false == true ? true : false;
+var GUEST_INFO = ['nick','mail','link'];
+var guest_info = 'nick,mail,link'.split(',').filter(function(item){
+  return GUEST_INFO.indexOf(item) > -1
+});
+guest_info = guest_info.length == 0 ? GUEST_INFO :guest_info;
+
+window.valine = new Valine({
+  el:'#vcomment',
+  notify:notify,
+  verify:verify,
+  appId:'c5KIrm1zS0qvXtKEBt9TkBSf-MdYXbMMI',
+  appKey:'Tdyzs8GUfp03kAIwOtMBos3q',
+  placeholder:'Please leave your footprints',
+  avatar:'monsterid',
+  guest_info:guest_info,
+  pageSize:'10',
+  lang:'en',
+  recordIP: true
+});</script></div></div></main><footer id="footer" style="background-image: url(https://images.unsplash.com/photo-1518186285589-2f7649de83e0?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=1567&amp;q=80)" data-type="photo"><div id="footer-wrap"><div class="copyright">&copy;2019 - 2021 By deserce</div><div class="framework-info"><span>Power by </span><a href="http://hexo.io" target="_blank" rel="noopener"><span>Hexo</span></a><span class="footer-separator">|</span><span>Theme </span><a href="https://github.com/jerryc127/hexo-theme-butterfly" target="_blank" rel="noopener"><span>Butterfly</span></a></div></div></footer></div><section class="rightside" id="rightside"><div id="rightside-config-hide"><i class="fa fa-book" id="readmode" title="閲讀模式"></i><i class="fa fa-plus" id="font_plus" title="放大字體"></i><i class="fa fa-minus" id="font_minus" title="縮小字體"></i><a class="translate_chn_to_cht" id="translateLink" href="javascript:translatePage();" title="簡繁轉換" target="_self">繁</a><i class="darkmode fa fa-moon-o" id="darkmode" title="夜間模式"></i></div><div id="rightside-config-show"><div id="rightside_config" title="設置"><i class="fa fa-cog" aria-hidden="true"></i></div><a id="to_comment" href="#post-comment" title="直達評論"><i class="scroll_to_comment fa fa-comments">  </i></a><i class="fa fa-list-ul close" id="mobile-toc-button" title="目錄" aria-hidden="true"></i><i class="fa fa-arrow-up" id="go-up" title="回到頂部" aria-hidden="true"></i></div></section><script src="https://cdn.jsdelivr.net/npm/jquery@latest/dist/jquery.min.js"></script><script src="/js/utils.js"></script><script src="/js/main.js"></script><script src="/js/tw_cn.js"></script><script src="https://cdn.jsdelivr.net/npm/medium-zoom/dist/medium-zoom.min.js"></script><script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@latest/dist/jquery.fancybox.min.js"></script><script id="canvas_nest" color="47,54,64" opacity="0.4" zIndex="-1" count="88" mobile="ture" src="https://cdn.jsdelivr.net/gh/jerryc127/butterfly_cdn@2.1.0/js/canvas-nest.js"></script><script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script><script src="https://cdn.jsdelivr.net/npm/instant.page@latest/instantpage.min.js" type="module"></script><script src="https://cdn.jsdelivr.net/npm/lazysizes@latest/lazysizes.min.js" async=""></script><div class="search-dialog" id="algolia-search"><div class="search-dialog__title" id="algolia-search-title">Algolia</div><div id="algolia-input-panel"><div id="algolia-search-input"></div></div><hr><div id="algolia-search-results"><div id="algolia-hits"></div><div id="algolia-pagination"></div><div id="algolia-stats"></div></div><span class="search-close-button"><i class="fa fa-times"></i></span></div><div class="search-mask"></div></body></html>
