@@ -4,6 +4,39 @@
   
     
     <entry>
+      <title>【量化数据】20211019</title>
+      <link href="/2021/10/19/20211019/"/>
+      <url>/2021/10/19/20211019/</url>
+      
+        <content type="html"><![CDATA[<p><a href="https://files.mdnice.com/user/4350/af4eabdd-9db7-477f-950c-e42c2000b2e9.png" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://files.mdnice.com/user/4350/af4eabdd-9db7-477f-950c-e42c2000b2e9.png" class="lazyload"></a></p><h1 id="【量化数据】20211019"><a href="#【量化数据】20211019" class="headerlink" title="【量化数据】20211019"></a>【量化数据】20211019</h1><h2 id="量化榜单"><a href="#量化榜单" class="headerlink" title="量化榜单"></a>量化榜单</h2><h3 id="港资五日增持榜单"><a href="#港资五日增持榜单" class="headerlink" title="港资五日增持榜单"></a><code>港资五日增持</code>榜单</h3><p><a href="https://files.mdnice.com/user/4350/f9e027fd-db3f-405a-8620-51427d420b5f.png" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://files.mdnice.com/user/4350/f9e027fd-db3f-405a-8620-51427d420b5f.png" class="lazyload"></a></p><blockquote><p><strong>使用注意事项</strong>：</p><p><strong>标的池</strong>：港资&gt;3000万或公募基金持股比例&gt;3%</p><p><strong>含义</strong>：近5个交易日北向资金增持比例</p><p>因此以上榜单可在一定程度反应近期港资的动向</p><p>而港资加仓看好的标的我们要不要跟呢？</p><p>我的想法是，根据自己的投资风格，仔细观察该标的<strong>港资性格</strong>，此做一个参考的指标，谨慎操作</p><p><code>港资增持榜单</code>的设置方法请看<a href="https://deserce.github.io/2021/09/03/20210903/">旧文</a></p></blockquote><h3 id="个股RPS10榜单"><a href="#个股RPS10榜单" class="headerlink" title="个股RPS10榜单"></a><strong>个股</strong><code>RPS10</code>榜单</h3><p><a href="https://files.mdnice.com/user/4350/df4cebff-ba32-4628-98f3-5f45e8a1b260.png" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://files.mdnice.com/user/4350/df4cebff-ba32-4628-98f3-5f45e8a1b260.png" class="lazyload"></a></p><blockquote><p><code>个股RPS10榜单</code>的设置方法请看<a href="https://deserce.github.io/2021/09/05/20210905/">旧文</a></p></blockquote><h3 id="申万二级行业RPS10排名前10"><a href="#申万二级行业RPS10排名前10" class="headerlink" title="申万二级行业RPS10排名前10"></a><strong>申万二级行业</strong><code>RPS10</code>排名前10</h3><p>这里使用的是<code>通达信</code>的申万二级行业分类</p><p><a href="https://files.mdnice.com/user/4350/41aacc65-0de3-4329-b629-a0b18cbcf1ff.png" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://files.mdnice.com/user/4350/41aacc65-0de3-4329-b629-a0b18cbcf1ff.png" class="lazyload"></a></p><blockquote><p>个人认为，关注排名前十个行业分类即可</p></blockquote><p>二级行业<code>RPS10</code><strong>热图</strong></p><p><a href="https://files.mdnice.com/user/4350/2fa70dfb-7817-482e-ac27-c226cf6fe3c9.png" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://files.mdnice.com/user/4350/2fa70dfb-7817-482e-ac27-c226cf6fe3c9.png" class="lazyload"></a></p><blockquote><p><strong>热图制作缘由</strong>：榜单只能跟踪当天的行情，无法在全行业的视角下观看历史行情的演变</p><p><strong>本次更新</strong>：加入<strong>强势判断</strong>及<strong>多头判断</strong></p><p><strong>强势判断</strong>：<code>RPS10&gt;85</code></p><p><strong>多头判断</strong>：近五个交易日<code>RPS10</code>递增且最近一个交易日<code>RPS10&gt;75</code></p></blockquote><h3 id="ETFRPS10榜单"><a href="#ETFRPS10榜单" class="headerlink" title="ETFRPS10榜单"></a>ETF<code>RPS10</code>榜单</h3><p><a href="https://files.mdnice.com/user/4350/a87047b7-3d08-4985-88fa-85f5f52944a7.png" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://files.mdnice.com/user/4350/a87047b7-3d08-4985-88fa-85f5f52944a7.png" class="lazyload"></a></p><p>ETF<code>RPS10</code>热图</p><p><a href="https://files.mdnice.com/user/4350/236f641f-e100-4e3e-a682-d39e0ff5e824.png" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://files.mdnice.com/user/4350/236f641f-e100-4e3e-a682-d39e0ff5e824.png" class="lazyload"></a></p><blockquote><p><code>ETF热图</code>的原理及使用方法同<code>二级行业热图</code>，只不过标的换成了部分<code>ETF</code>，至于为什么选择这些<code>ETF</code>，不是因为顺眼</p></blockquote><h2 id="量化选股"><a href="#量化选股" class="headerlink" title="量化选股"></a>量化选股</h2><p>选股量化条件——港资增持且股价接近一年新高</p><h3 id="标的池-港资-gt-3000万或公募基金持股比例-gt-3"><a href="#标的池-港资-gt-3000万或公募基金持股比例-gt-3" class="headerlink" title="标的池-港资&gt;3000万或公募基金持股比例&gt;3%"></a>标的池-港资&gt;3000万或公募基金持股比例&gt;3%</h3><p><a href="https://files.mdnice.com/user/4350/96840907-9831-4d31-b71b-f3c9f0a43b2c.png" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://files.mdnice.com/user/4350/96840907-9831-4d31-b71b-f3c9f0a43b2c.png" class="lazyload"></a></p><h3 id="标的池-含可转债"><a href="#标的池-含可转债" class="headerlink" title="标的池-含可转债"></a>标的池-含可转债</h3><p><a href="https://files.mdnice.com/user/4350/7af904f8-f957-4746-82d3-e72bba8c9eb6.png" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://files.mdnice.com/user/4350/7af904f8-f957-4746-82d3-e72bba8c9eb6.png" class="lazyload"></a></p><p>如果您有什么好的想法不妨留言</p><p>数据来源：通达信</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 自我救赎 </category>
+          
+          <category> 投资 </category>
+          
+          <category> 我的投资札记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 理财 </tag>
+            
+            <tag> 思维 </tag>
+            
+            <tag> 每日复盘 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>【量化数据】20211015</title>
       <link href="/2021/10/15/20211015/"/>
       <url>/2021/10/15/20211015/</url>
