@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://deserce.github.io/"/>
-  <updated>2021-10-22T14:34:38.918Z</updated>
+  <updated>2021-10-26T14:30:54.660Z</updated>
   <id>https://deserce.github.io/</id>
   
   <author>
@@ -15,6 +15,40 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>【量化数据】20211026</title>
+    <link href="https://deserce.github.io/2021/10/26/20211026/"/>
+    <id>https://deserce.github.io/2021/10/26/20211026/</id>
+    <published>2021-10-26T13:45:54.000Z</published>
+    <updated>2021-10-26T14:30:54.660Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="【量化数据】20211026"><a href="#【量化数据】20211026" class="headerlink" title="【量化数据】20211026"></a>【量化数据】20211026</h1><h2 id="量化榜单"><a href="#量化榜单" class="headerlink" title="量化榜单"></a>量化榜单</h2><h3 id="港资五日增持榜单"><a href="#港资五日增持榜单" class="headerlink" title="港资五日增持榜单"></a><code>港资五日增持</code>榜单</h3><p><a href="https://cdn.jsdelivr.net/gh/deserce/picgo/img/202110262153690.png" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://cdn.jsdelivr.net/gh/deserce/picgo/img/202110262153690.png" class="lazyload"></a></p><blockquote><p><strong>使用注意事项</strong>：</p><p><strong>标的池</strong>：港资&gt;3000万或公募基金持股比例&gt;3%</p><p><strong>含义</strong>：近5个交易日北向资金增持比例</p><p>因此以上榜单可在一定程度反应近期港资的动向</p><p>而港资加仓看好的标的我们要不要跟呢？</p><p>我的想法是，根据自己的投资风格，仔细观察该标的<strong>港资性格</strong>，此做一个参考的指标，谨慎操作</p><p><code>港资增持榜单</code>的设置方法请看<a href="https://deserce.github.io/2021/09/03/20210903/">旧文</a></p></blockquote><h3 id="个股RPS10榜单"><a href="#个股RPS10榜单" class="headerlink" title="个股RPS10榜单"></a><strong>个股</strong><code>RPS10</code>榜单</h3><p><a href="https://cdn.jsdelivr.net/gh/deserce/picgo/img/202110262154096.png" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://cdn.jsdelivr.net/gh/deserce/picgo/img/202110262154096.png" class="lazyload"></a></p><blockquote><p><code>个股RPS10榜单</code>的设置方法请看<a href="https://deserce.github.io/2021/09/05/20210905/">旧文</a></p></blockquote><h3 id="申万二级行业RPS10排名前10"><a href="#申万二级行业RPS10排名前10" class="headerlink" title="申万二级行业RPS10排名前10"></a><strong>申万二级行业</strong><code>RPS10</code>排名前10</h3><p>这里使用的是<code>通达信</code>的申万二级行业分类</p><p><a href="https://cdn.jsdelivr.net/gh/deserce/picgo/img/202110262155509.png" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://cdn.jsdelivr.net/gh/deserce/picgo/img/202110262155509.png" class="lazyload"></a></p><blockquote><p>个人认为，关注排名前十个行业分类即可</p></blockquote><p>二级行业<code>RPS10</code><strong>热图</strong></p><p><a href="https://cdn.jsdelivr.net/gh/deserce/picgo/img/202110262205678.png" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://cdn.jsdelivr.net/gh/deserce/picgo/img/202110262205678.png" class="lazyload"></a></p><blockquote><p><strong>热图制作缘由</strong>：榜单只能跟踪当天的行情，无法在全行业的视角下观看历史行情的演变</p><p><strong>强势判断</strong>：<code>RPS10&gt;80</code></p><p><strong>多头判断</strong>：近五个交易日<code>RPS10</code>递增且最近一个交易日<code>RPS10&gt;75</code></p></blockquote><h3 id="ETFRPS10榜单"><a href="#ETFRPS10榜单" class="headerlink" title="ETFRPS10榜单"></a>ETF<code>RPS10</code>榜单</h3><p><a href="https://cdn.jsdelivr.net/gh/deserce/picgo/img/202110262206554.png" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://cdn.jsdelivr.net/gh/deserce/picgo/img/202110262206554.png" class="lazyload"></a></p><p>ETF<code>RPS10</code>热图</p><p><a href="https://cdn.jsdelivr.net/gh/deserce/picgo/img/202110262210502.png" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://cdn.jsdelivr.net/gh/deserce/picgo/img/202110262210502.png" class="lazyload"></a></p><blockquote><p><code>ETF热图</code>的原理及使用方法同<code>二级行业热图</code>，只不过标的换成了部分<code>ETF</code>，至于为什么选择这些<code>ETF</code>，不是因为顺眼</p></blockquote><h2 id="量化选股"><a href="#量化选股" class="headerlink" title="量化选股"></a>量化选股</h2><ol><li>选股量化条件——港资增持且股价接近一年新高</li></ol><h3 id="标的池-港资-gt-3000万或公募基金持股比例-gt-3"><a href="#标的池-港资-gt-3000万或公募基金持股比例-gt-3" class="headerlink" title="标的池-港资&gt;3000万或公募基金持股比例&gt;3%"></a>标的池-港资&gt;3000万或公募基金持股比例&gt;3%</h3><p><a href="https://cdn.jsdelivr.net/gh/deserce/picgo/img/202110262219885.png" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://cdn.jsdelivr.net/gh/deserce/picgo/img/202110262219885.png" class="lazyload"></a></p><p><a href="https://cdn.jsdelivr.net/gh/deserce/picgo/img/202110262216264.png" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://cdn.jsdelivr.net/gh/deserce/picgo/img/202110262216264.png" class="lazyload"></a></p><h3 id="标的池-含可转债"><a href="#标的池-含可转债" class="headerlink" title="标的池-含可转债"></a>标的池-含可转债</h3><p><a href="https://cdn.jsdelivr.net/gh/deserce/picgo/img/202110262213222.png" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://cdn.jsdelivr.net/gh/deserce/picgo/img/202110262213222.png" class="lazyload"></a></p><ol start="2"><li>黄金坑（指RPS出现回调，代表强势股回调）</li></ol><h3 id="标的池-港资-gt-3000万或公募基金持股比例-gt-3-1"><a href="#标的池-港资-gt-3000万或公募基金持股比例-gt-3-1" class="headerlink" title="标的池-港资&gt;3000万或公募基金持股比例&gt;3%"></a>标的池-港资&gt;3000万或公募基金持股比例&gt;3%</h3><p><a href="https://cdn.jsdelivr.net/gh/deserce/picgo/img/202110262222503.png" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://cdn.jsdelivr.net/gh/deserce/picgo/img/202110262222503.png" class="lazyload"></a></p><p><a href="https://cdn.jsdelivr.net/gh/deserce/picgo/img/202110262222337.png" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://cdn.jsdelivr.net/gh/deserce/picgo/img/202110262222337.png" class="lazyload"></a></p><blockquote><p>长线坑</p></blockquote><p><a href="https://cdn.jsdelivr.net/gh/deserce/picgo/img/202110262220993.png" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://cdn.jsdelivr.net/gh/deserce/picgo/img/202110262220993.png" class="lazyload"></a></p><blockquote><p>短线坑</p></blockquote><h3 id="标的池-含可转债-1"><a href="#标的池-含可转债-1" class="headerlink" title="标的池-含可转债"></a>标的池-含可转债</h3><p><a href="https://cdn.jsdelivr.net/gh/deserce/picgo/img/202110262224875.png" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://cdn.jsdelivr.net/gh/deserce/picgo/img/202110262224875.png" class="lazyload"></a></p><blockquote><p>长线坑</p></blockquote><p><a href="https://cdn.jsdelivr.net/gh/deserce/picgo/img/202110262224691.png" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://cdn.jsdelivr.net/gh/deserce/picgo/img/202110262224691.png" class="lazyload"></a></p><blockquote><p>短线坑</p></blockquote><p>如果您有什么想法不妨留言</p><p>数据来源：通达信</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;【量化数据】20211026&quot;&gt;&lt;a href=&quot;#【量化数据】20211026&quot; class=&quot;headerlink&quot; title=&quot;【量化数据】20211026&quot;&gt;&lt;/a&gt;【量化数据】20211026&lt;/h1&gt;&lt;h2 id=&quot;量化榜单&quot;&gt;&lt;a href=&quot;#量
+      
+    
+    </summary>
+    
+    
+      <category term="自我救赎" scheme="https://deserce.github.io/categories/%E8%87%AA%E6%88%91%E6%95%91%E8%B5%8E/"/>
+    
+      <category term="投资" scheme="https://deserce.github.io/categories/%E8%87%AA%E6%88%91%E6%95%91%E8%B5%8E/%E6%8A%95%E8%B5%84/"/>
+    
+      <category term="我的投资札记" scheme="https://deserce.github.io/categories/%E8%87%AA%E6%88%91%E6%95%91%E8%B5%8E/%E6%8A%95%E8%B5%84/%E6%88%91%E7%9A%84%E6%8A%95%E8%B5%84%E6%9C%AD%E8%AE%B0/"/>
+    
+    
+      <category term="理财" scheme="https://deserce.github.io/tags/%E7%90%86%E8%B4%A2/"/>
+    
+      <category term="思维" scheme="https://deserce.github.io/tags/%E6%80%9D%E7%BB%B4/"/>
+    
+      <category term="每日复盘" scheme="https://deserce.github.io/tags/%E6%AF%8F%E6%97%A5%E5%A4%8D%E7%9B%98/"/>
+    
+  </entry>
   
   <entry>
     <title>【量化数据】20211022</title>
@@ -683,46 +717,6 @@
       
       
         &lt;h2 id=&quot;读林园摘记一-确定性-【20210104-】&quot;&gt;&lt;a href=&quot;#读林园摘记一-确定性-【20210104-】&quot; class=&quot;headerlink&quot; title=&quot;读林园摘记一 确定性 【20210104 】&quot;&gt;&lt;/a&gt;读林园摘记一 确定性 【20210104
-      
-    
-    </summary>
-    
-    
-      <category term="自我救赎" scheme="https://deserce.github.io/categories/%E8%87%AA%E6%88%91%E6%95%91%E8%B5%8E/"/>
-    
-      <category term="投资" scheme="https://deserce.github.io/categories/%E8%87%AA%E6%88%91%E6%95%91%E8%B5%8E/%E6%8A%95%E8%B5%84/"/>
-    
-      <category term="股海沉浮" scheme="https://deserce.github.io/categories/%E8%87%AA%E6%88%91%E6%95%91%E8%B5%8E/%E6%8A%95%E8%B5%84/%E8%82%A1%E6%B5%B7%E6%B2%89%E6%B5%AE/"/>
-    
-      <category term="可转债" scheme="https://deserce.github.io/categories/%E8%87%AA%E6%88%91%E6%95%91%E8%B5%8E/%E6%8A%95%E8%B5%84/%E8%82%A1%E6%B5%B7%E6%B2%89%E6%B5%AE/%E5%8F%AF%E8%BD%AC%E5%80%BA/"/>
-    
-    
-      <category term="理财" scheme="https://deserce.github.io/tags/%E7%90%86%E8%B4%A2/"/>
-    
-      <category term="思维" scheme="https://deserce.github.io/tags/%E6%80%9D%E7%BB%B4/"/>
-    
-      <category term="股市" scheme="https://deserce.github.io/tags/%E8%82%A1%E5%B8%82/"/>
-    
-      <category term="复盘" scheme="https://deserce.github.io/tags/%E5%A4%8D%E7%9B%98/"/>
-    
-      <category term="可转债" scheme="https://deserce.github.io/tags/%E5%8F%AF%E8%BD%AC%E5%80%BA/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>回顾及展望【20210101 】</title>
-    <link href="https://deserce.github.io/2021/01/01/20210101/"/>
-    <id>https://deserce.github.io/2021/01/01/20210101/</id>
-    <published>2021-01-01T14:20:10.000Z</published>
-    <updated>2021-01-01T14:23:28.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="回顾及展望【20210101-】"><a href="#回顾及展望【20210101-】" class="headerlink" title="回顾及展望【20210101 】"></a>回顾及展望【20210101 】</h1><p>回顾年初的2020年规划，实现的没几个，挽尊。</p><p>今年只是逐步接触了股市，但是还是没能够学会适应这个市场。商业分析也只是初步有了一点点了解，不成体系。</p><p>也还好找到了公众号的定位，这就是我的个人号，我会分享我的学习的笔记，投资的记录，还有对社会时事的一些简单的看法，总之就是我自己思想的承载介质，透明的一个平台。</p><p>漫漫人生路，慢慢成长路。</p><p>冥想之类的还请记得坚持，画画也搁置下来了，<code>python</code>已经开始 n 次了。</p><h2 id="商业学习"><a href="#商业学习" class="headerlink" title="商业学习"></a>商业学习</h2><p>了解到了传统行业和新兴行业的一些不同的分析思路，传统行业比较适合自上而下，从行业发展再到企业发展分析逻辑。而新兴行业的话，可能会比较适合自下而上的分析思路，从公司业务模式，结合技术革新，政策导向，分析企业的发展前景。</p><p>同时常规也了解到资料搜集的平台，也了解了财务分析以及企业估值的一些简单的方法。当然种种这些都仅仅是简单的一个了解，只能说是初窥门径，还有很长的路要走。</p><p>有计划明年将学习到的关于商业分析的知识整理成文字稿，放在公众号里面。</p><h2 id="股市投资"><a href="#股市投资" class="headerlink" title="股市投资"></a>股市投资</h2><h3 id="亏在哪？"><a href="#亏在哪？" class="headerlink" title="亏在哪？"></a>亏在哪？</h3><p>统计了一下亏损比较多的交易均是不严格止损所致。</p><p>所以止损是保护自己本金必要手段，必须严格执行。</p><h3 id="赚在哪？"><a href="#赚在哪？" class="headerlink" title="赚在哪？"></a>赚在哪？</h3><ol><li><p>赚的票基本上均是在右侧交易，跟随趋势赚到的，所以这一部分是必须得深挖的一块。</p></li><li><p>很有意思的一点，基本上赚的比例最多的均为持仓时间较长的。所以对标的的研究需要更加深入耐心持股，让利润飞翔。</p></li></ol><h3 id="以后该怎么做？"><a href="#以后该怎么做？" class="headerlink" title="以后该怎么做？"></a>以后该怎么做？</h3><ul><li><p>继续做<strong>好正股</strong>的可转债</p><p>【技术基本面分析，商业基本面分析👉<strong>行业龙头</strong>】</p></li><li><p>继续做有结构性行情的趋势票</p><p>【RPS 板块，消息情绪面分析👉<strong>结构龙头</strong>】</p></li><li><p>严格止损</p><p>【<strong>止损</strong>是活下来的必备素养，活下来然后赚到钱才是最重要的】</p></li><li><p>耐心持股，让盈利飞翔</p><p>【深入的三大面分析是耐心持股的前提，周期摇摆是利润成本套利时机】</p></li><li><p>计划交易，交易计划</p><p>【严格执行自己的交易计划，交易计划开始必须做到全面的设想预案，需要涉及到持仓标的中长线交易计划，短线交易计划】</p></li></ul><h3 id="交易体系的设想"><a href="#交易体系的设想" class="headerlink" title="交易体系的设想"></a>交易体系的设想</h3><ol><li><p><strong>我的🗡</strong>     👉<strong>结构龙头</strong>的趋势追随战法👈 </p><p> 每一段时期总会有一波行情出现，会有形成板块效应的大行情，结构大行情出现，则可以无脑做 <strong>ETF</strong> 也可以做结构龙头，当然有可能结构龙头和行业龙头是同一个标的。此处我所谓的结构龙头的意思是指在结构性行情中涨势比较好的几只票，他涨起来可能是因为概念相关，业绩不错，但不是行业龙头，也有可能是行业龙头。同时也会有日内短线行情大跌下资金抱团现象的出现，可以刀口舔血，这是分时级别的结构行情。</p></li><li><p><strong>我的🛡</strong>     👉<strong>行业龙头</strong>的波段套利战法👈</p><p> 各大行业的龙头在周K上必然是 45° 往上走，甚至大于 45°，角度无关紧要，只要不破上升趋势，每逢均线粘合，必然孕育下一次的机会，那买点在哪？如果不管风险，那必然是新高买入？而且有意思的是各大龙头他们的节奏可能不那么一致，这样就给我们了一个来回套利的机会。什么时候走那必然是均线严重乖离后第二根阴线走。</p></li></ol>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h1 id=&quot;回顾及展望【20210101-】&quot;&gt;&lt;a href=&quot;#回顾及展望【20210101-】&quot; class=&quot;headerlink&quot; title=&quot;回顾及展望【20210101 】&quot;&gt;&lt;/a&gt;回顾及展望【20210101 】&lt;/h1&gt;&lt;p&gt;回顾年初的2020年规划，实
       
     
     </summary>
