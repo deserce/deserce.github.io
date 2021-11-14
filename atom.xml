@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://deserce.github.io/"/>
-  <updated>2021-11-10T14:46:58.901Z</updated>
+  <updated>2021-11-14T14:35:07.912Z</updated>
   <id>https://deserce.github.io/</id>
   
   <author>
@@ -15,6 +15,74 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>【量化数据】20211112</title>
+    <link href="https://deserce.github.io/2021/11/12/20211112/"/>
+    <id>https://deserce.github.io/2021/11/12/20211112/</id>
+    <published>2021-11-12T13:58:45.000Z</published>
+    <updated>2021-11-14T14:35:07.912Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://files.mdnice.com/user/4350/937f0e59-a663-445a-ba03-92a6e42c1504.png" data-fancybox="group" data-caption class="fancybox"><img alt data-src="https://files.mdnice.com/user/4350/937f0e59-a663-445a-ba03-92a6e42c1504.png" class="lazyload" title></a></p><h1 id="【量化数据】20211112"><a href="#【量化数据】20211112" class="headerlink" title="【量化数据】20211112"></a>【量化数据】20211112</h1><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>为感谢各位朋友的分享和支持，就不保留11月份的原始数据和原图了，有兴趣的朋友也可以点击原文阅读关注我的博客！</p><p>源数据：<a href="https://deserce.lanzoui.com/b06tc0z9c" target="_blank" rel="noopener">https://deserce.lanzoui.com/b06tc0z9c</a> 密码:e7oc</p><h2 id="量化榜单"><a href="#量化榜单" class="headerlink" title="量化榜单"></a>量化榜单</h2><h3 id="港资五日增持榜单"><a href="#港资五日增持榜单" class="headerlink" title="港资五日增持榜单"></a><code>港资五日增持</code>榜单</h3><p><a href="https://files.mdnice.com/user/4350/4b7952fb-945a-47f0-bc15-d1316d5c9ac4.png" data-fancybox="group" data-caption class="fancybox"><img alt data-src="https://files.mdnice.com/user/4350/4b7952fb-945a-47f0-bc15-d1316d5c9ac4.png" class="lazyload" title></a></p><blockquote><p><strong>使用注意事项</strong>：(通达信输入<code>.401</code> 鼠标右键选择排序指标 <code>资金榜单</code>)</p><p><strong>标的池</strong>：港资&gt;3000万或公募基金持股比例&gt;3%</p><p><strong>含义</strong>：近5个交易日北向资金增持比例</p><p>因此以上榜单可在一定程度反应近期港资的动向</p><p>而港资加仓看好的标的我们要不要跟呢？</p><p>我的想法是，根据自己的投资风格，仔细观察该标的<strong>港资性格</strong>，此做一个参考的指标，谨慎操作</p><p><code>港资增持榜单</code>的设置方法请看<a href="https://deserce.github.io/2021/09/03/20210903/">旧文</a></p></blockquote><h3 id="个股RPS10榜单"><a href="#个股RPS10榜单" class="headerlink" title="个股RPS10榜单"></a><strong>个股</strong><code>RPS10</code>榜单</h3><p><a href="https://files.mdnice.com/user/4350/eda23779-acdc-425f-b226-ea7e299d4a16.png" data-fancybox="group" data-caption class="fancybox"><img alt data-src="https://files.mdnice.com/user/4350/eda23779-acdc-425f-b226-ea7e299d4a16.png" class="lazyload" title></a></p><blockquote><p><code>个股RPS10榜单</code>的设置方法请看<a href="https://deserce.github.io/2021/09/05/20210905/">旧文</a></p></blockquote><h3 id="申万二级行业RPS10排名前10"><a href="#申万二级行业RPS10排名前10" class="headerlink" title="申万二级行业RPS10排名前10"></a><strong>申万二级行业</strong><code>RPS10</code>排名前10</h3><p>这里使用的是<code>通达信</code>的申万二级行业分类</p><p><a href="https://files.mdnice.com/user/4350/f61f4888-3efe-44d3-be49-8c29748ae94b.png" data-fancybox="group" data-caption class="fancybox"><img alt data-src="https://files.mdnice.com/user/4350/f61f4888-3efe-44d3-be49-8c29748ae94b.png" class="lazyload" title></a></p><blockquote><p>个人认为，关注排名前十个行业分类即可</p></blockquote><p>二级行业<code>RPS10</code><strong>热图</strong></p><p><a href="https://files.mdnice.com/user/4350/3bdd5979-0381-4907-871d-8d3ae4b310c5.png" data-fancybox="group" data-caption class="fancybox"><img alt data-src="https://files.mdnice.com/user/4350/3bdd5979-0381-4907-871d-8d3ae4b310c5.png" class="lazyload" title></a></p><blockquote><p><strong>热图制作缘由</strong>：榜单只能跟踪当天的行情，无法在全行业的视角下观看历史行情的演变</p><p><strong>强势判断</strong>：<code>RPS10&gt;80</code></p><p><strong>多头判断</strong>：近五个交易日<code>RPS10</code>递增且最近一个交易日<code>RPS10&gt;75</code></p><p><strong>坑</strong>：近五个交易日<code>RPS10</code>回调且五日前<code>RPS10&gt;80</code></p></blockquote><h3 id="ETFRPS10榜单"><a href="#ETFRPS10榜单" class="headerlink" title="ETFRPS10榜单"></a>ETF<code>RPS10</code>榜单</h3><p><a href="https://files.mdnice.com/user/4350/3db8d7cb-8d9c-41fd-ba70-cf67e3336a75.png" data-fancybox="group" data-caption class="fancybox"><img alt data-src="https://files.mdnice.com/user/4350/3db8d7cb-8d9c-41fd-ba70-cf67e3336a75.png" class="lazyload" title></a></p><p>ETF<code>RPS10</code>热图</p><p><a href="https://files.mdnice.com/user/4350/4c751703-3562-4c46-82cd-48ff14f8c1b4.png" data-fancybox="group" data-caption class="fancybox"><img alt data-src="https://files.mdnice.com/user/4350/4c751703-3562-4c46-82cd-48ff14f8c1b4.png" class="lazyload" title></a></p><blockquote><p><code>ETF热图</code>的原理及使用方法同<code>二级行业热图</code>，只不过标的换成了部分<code>ETF</code>，至于为什么选择这些<code>ETF</code>，不是因为顺眼</p></blockquote><h2 id="量化选股"><a href="#量化选股" class="headerlink" title="量化选股"></a>量化选股</h2><p>选股量化条件——港资增持且股价接近一年新高</p><h3 id="标的池-港资-gt-3000万或公募基金持股比例-gt-3"><a href="#标的池-港资-gt-3000万或公募基金持股比例-gt-3" class="headerlink" title="标的池-港资&gt;3000万或公募基金持股比例&gt;3%"></a>标的池-港资&gt;3000万或公募基金持股比例&gt;3%</h3><p><a href="https://files.mdnice.com/user/4350/3dadd741-2198-4bad-b66c-dfbb6e5a79f7.png" data-fancybox="group" data-caption class="fancybox"><img alt data-src="https://files.mdnice.com/user/4350/3dadd741-2198-4bad-b66c-dfbb6e5a79f7.png" class="lazyload" title></a></p><p><a href="https://files.mdnice.com/user/4350/85e43189-f621-47dc-a086-925f36d9fc96.png" data-fancybox="group" data-caption class="fancybox"><img alt data-src="https://files.mdnice.com/user/4350/85e43189-f621-47dc-a086-925f36d9fc96.png" class="lazyload" title></a></p><p><a href="https://files.mdnice.com/user/4350/e5f47c71-2505-4bb8-ace2-7dca3c515d25.png" data-fancybox="group" data-caption class="fancybox"><img alt data-src="https://files.mdnice.com/user/4350/e5f47c71-2505-4bb8-ace2-7dca3c515d25.png" class="lazyload" title></a></p><h3 id="标的池-含可转债"><a href="#标的池-含可转债" class="headerlink" title="标的池-含可转债"></a>标的池-含可转债</h3><p><a href="https://files.mdnice.com/user/4350/55d52699-9b8f-4901-9be9-a30237098850.png" data-fancybox="group" data-caption class="fancybox"><img alt data-src="https://files.mdnice.com/user/4350/55d52699-9b8f-4901-9be9-a30237098850.png" class="lazyload" title></a></p><p>如果您有什么想法不妨留言</p><p>数据来源：通达信</p><p>感谢各位朋友的分享！</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;a href=&quot;https://files.mdnice.com/user/4350/937f0e59-a663-445a-ba03-92a6e42c1504.png&quot; data-fancybox=&quot;group&quot; data-caption class=&quot;fancybox&quot;
+      
+    
+    </summary>
+    
+    
+      <category term="自我救赎" scheme="https://deserce.github.io/categories/%E8%87%AA%E6%88%91%E6%95%91%E8%B5%8E/"/>
+    
+      <category term="投资" scheme="https://deserce.github.io/categories/%E8%87%AA%E6%88%91%E6%95%91%E8%B5%8E/%E6%8A%95%E8%B5%84/"/>
+    
+      <category term="我的投资札记" scheme="https://deserce.github.io/categories/%E8%87%AA%E6%88%91%E6%95%91%E8%B5%8E/%E6%8A%95%E8%B5%84/%E6%88%91%E7%9A%84%E6%8A%95%E8%B5%84%E6%9C%AD%E8%AE%B0/"/>
+    
+    
+      <category term="理财" scheme="https://deserce.github.io/tags/%E7%90%86%E8%B4%A2/"/>
+    
+      <category term="思维" scheme="https://deserce.github.io/tags/%E6%80%9D%E7%BB%B4/"/>
+    
+      <category term="每日复盘" scheme="https://deserce.github.io/tags/%E6%AF%8F%E6%97%A5%E5%A4%8D%E7%9B%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【量化数据】20211111</title>
+    <link href="https://deserce.github.io/2021/11/11/20211111/"/>
+    <id>https://deserce.github.io/2021/11/11/20211111/</id>
+    <published>2021-11-11T13:56:01.000Z</published>
+    <updated>2021-11-11T14:05:18.605Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://files.mdnice.com/user/4350/937f0e59-a663-445a-ba03-92a6e42c1504.png" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://files.mdnice.com/user/4350/937f0e59-a663-445a-ba03-92a6e42c1504.png" class="lazyload"></a></p><h1 id="【量化数据】20211111"><a href="#【量化数据】20211111" class="headerlink" title="【量化数据】20211111"></a>【量化数据】20211111</h1><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>为感谢各位朋友的分享和支持，就不保留11月份的原始数据和原图了，有兴趣的朋友也可以点击原文阅读关注我的博客！</p><p>源数据：<a href="https://deserce.lanzoui.com/b06tc0z9c" target="_blank" rel="noopener">https://deserce.lanzoui.com/b06tc0z9c</a> 密码:e7oc</p><h2 id="量化榜单"><a href="#量化榜单" class="headerlink" title="量化榜单"></a>量化榜单</h2><h3 id="港资五日增持榜单"><a href="#港资五日增持榜单" class="headerlink" title="港资五日增持榜单"></a><code>港资五日增持</code>榜单</h3><p><a href="https://files.mdnice.com/user/4350/94f78c69-07eb-4e8a-ac70-c0a3c443739e.png" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://files.mdnice.com/user/4350/94f78c69-07eb-4e8a-ac70-c0a3c443739e.png" class="lazyload"></a></p><blockquote><p><strong>使用注意事项</strong>：(通达信输入<code>.401</code> 鼠标右键选择排序指标 <code>资金榜单</code>)</p><p><strong>标的池</strong>：港资&gt;3000万或公募基金持股比例&gt;3%</p><p><strong>含义</strong>：近5个交易日北向资金增持比例</p><p>因此以上榜单可在一定程度反应近期港资的动向</p><p>而港资加仓看好的标的我们要不要跟呢？</p><p>我的想法是，根据自己的投资风格，仔细观察该标的<strong>港资性格</strong>，此做一个参考的指标，谨慎操作</p><p><code>港资增持榜单</code>的设置方法请看<a href="https://deserce.github.io/2021/09/03/20210903/">旧文</a></p></blockquote><h3 id="个股RPS10榜单"><a href="#个股RPS10榜单" class="headerlink" title="个股RPS10榜单"></a><strong>个股</strong><code>RPS10</code>榜单</h3><p><a href="https://files.mdnice.com/user/4350/9d7af8a6-33ac-42ce-a82e-b574505f5a09.png" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://files.mdnice.com/user/4350/9d7af8a6-33ac-42ce-a82e-b574505f5a09.png" class="lazyload"></a></p><blockquote><p><code>个股RPS10榜单</code>的设置方法请看<a href="https://deserce.github.io/2021/09/05/20210905/">旧文</a></p></blockquote><h3 id="申万二级行业RPS10排名前10"><a href="#申万二级行业RPS10排名前10" class="headerlink" title="申万二级行业RPS10排名前10"></a><strong>申万二级行业</strong><code>RPS10</code>排名前10</h3><p>这里使用的是<code>通达信</code>的申万二级行业分类</p><p><a href="https://files.mdnice.com/user/4350/56fb2afa-88ea-4c11-bdbd-213eb7d85e94.png" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://files.mdnice.com/user/4350/56fb2afa-88ea-4c11-bdbd-213eb7d85e94.png" class="lazyload"></a></p><blockquote><p>个人认为，关注排名前十个行业分类即可</p></blockquote><p>二级行业<code>RPS10</code><strong>热图</strong></p><p><a href="https://files.mdnice.com/user/4350/648ea21a-bc62-40be-95ff-c8e194a9d1a9.png" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://files.mdnice.com/user/4350/648ea21a-bc62-40be-95ff-c8e194a9d1a9.png" class="lazyload"></a></p><blockquote><p><strong>热图制作缘由</strong>：榜单只能跟踪当天的行情，无法在全行业的视角下观看历史行情的演变</p><p><strong>强势判断</strong>：<code>RPS10&gt;80</code></p><p><strong>多头判断</strong>：近五个交易日<code>RPS10</code>递增且最近一个交易日<code>RPS10&gt;75</code></p><p><strong>坑</strong>：近五个交易日<code>RPS10</code>回调且五日前<code>RPS10&gt;80</code></p></blockquote><h3 id="ETFRPS10榜单"><a href="#ETFRPS10榜单" class="headerlink" title="ETFRPS10榜单"></a>ETF<code>RPS10</code>榜单</h3><p><a href="https://files.mdnice.com/user/4350/0bd99127-0cdf-4dbf-b28f-f19d4a400266.png" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://files.mdnice.com/user/4350/0bd99127-0cdf-4dbf-b28f-f19d4a400266.png" class="lazyload"></a></p><p>ETF<code>RPS10</code>热图</p><p><a href="https://files.mdnice.com/user/4350/d43db532-214b-4f9a-a21d-8355ce22e0ce.png" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://files.mdnice.com/user/4350/d43db532-214b-4f9a-a21d-8355ce22e0ce.png" class="lazyload"></a></p><blockquote><p><code>ETF热图</code>的原理及使用方法同<code>二级行业热图</code>，只不过标的换成了部分<code>ETF</code>，至于为什么选择这些<code>ETF</code>，不是因为顺眼</p></blockquote><h2 id="量化选股"><a href="#量化选股" class="headerlink" title="量化选股"></a>量化选股</h2><p>选股量化条件——港资增持且股价接近一年新高</p><h3 id="标的池-港资-gt-3000万或公募基金持股比例-gt-3"><a href="#标的池-港资-gt-3000万或公募基金持股比例-gt-3" class="headerlink" title="标的池-港资&gt;3000万或公募基金持股比例&gt;3%"></a>标的池-港资&gt;3000万或公募基金持股比例&gt;3%</h3><p><a href="https://files.mdnice.com/user/4350/cc80a41e-97ed-4f9c-b14f-7ea82b8c7278.png" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://files.mdnice.com/user/4350/cc80a41e-97ed-4f9c-b14f-7ea82b8c7278.png" class="lazyload"></a></p><p><a href="https://files.mdnice.com/user/4350/f7d0a5f5-db67-49de-8032-9cf0f9403d10.png" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://files.mdnice.com/user/4350/f7d0a5f5-db67-49de-8032-9cf0f9403d10.png" class="lazyload"></a></p><p><a href="https://files.mdnice.com/user/4350/3729c28c-224c-4c4f-878d-459b180053b7.png" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://files.mdnice.com/user/4350/3729c28c-224c-4c4f-878d-459b180053b7.png" class="lazyload"></a></p><h3 id="标的池-含可转债"><a href="#标的池-含可转债" class="headerlink" title="标的池-含可转债"></a>标的池-含可转债</h3><p><a href="https://files.mdnice.com/user/4350/aefb44f2-9f2b-401f-ac1b-7b1880fd83f4.png" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://files.mdnice.com/user/4350/aefb44f2-9f2b-401f-ac1b-7b1880fd83f4.png" class="lazyload"></a></p><p>如果您有什么想法不妨留言</p><p>数据来源：通达信</p><p>感谢各位朋友的分享！</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;a href=&quot;https://files.mdnice.com/user/4350/937f0e59-a663-445a-ba03-92a6e42c1504.png&quot; data-fancybox=&quot;group&quot; data-caption class=&quot;fancybox&quot;
+      
+    
+    </summary>
+    
+    
+      <category term="自我救赎" scheme="https://deserce.github.io/categories/%E8%87%AA%E6%88%91%E6%95%91%E8%B5%8E/"/>
+    
+      <category term="投资" scheme="https://deserce.github.io/categories/%E8%87%AA%E6%88%91%E6%95%91%E8%B5%8E/%E6%8A%95%E8%B5%84/"/>
+    
+      <category term="我的投资札记" scheme="https://deserce.github.io/categories/%E8%87%AA%E6%88%91%E6%95%91%E8%B5%8E/%E6%8A%95%E8%B5%84/%E6%88%91%E7%9A%84%E6%8A%95%E8%B5%84%E6%9C%AD%E8%AE%B0/"/>
+    
+    
+      <category term="理财" scheme="https://deserce.github.io/tags/%E7%90%86%E8%B4%A2/"/>
+    
+      <category term="思维" scheme="https://deserce.github.io/tags/%E6%80%9D%E7%BB%B4/"/>
+    
+      <category term="每日复盘" scheme="https://deserce.github.io/tags/%E6%AF%8F%E6%97%A5%E5%A4%8D%E7%9B%98/"/>
+    
+  </entry>
   
   <entry>
     <title>【量化数据】20211110</title>
@@ -625,76 +693,6 @@
       <category term="思维" scheme="https://deserce.github.io/tags/%E6%80%9D%E7%BB%B4/"/>
     
       <category term="每日复盘" scheme="https://deserce.github.io/tags/%E6%AF%8F%E6%97%A5%E5%A4%8D%E7%9B%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title> 【笔记】再来聊聊生意</title>
-    <link href="https://deserce.github.io/2021/10/05/20211004/"/>
-    <id>https://deserce.github.io/2021/10/05/20211004/</id>
-    <published>2021-10-05T05:51:01.000Z</published>
-    <updated>2021-10-05T05:58:30.626Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="生意是什么"><a href="#生意是什么" class="headerlink" title="生意是什么?"></a>生意是什么?</h1><p>这家公司通过什么样的业务和产品解决了什么市场痛点，从而实现了赚钱的小目标。</p><ul><li><p>这家公司做什么？主要业务或产品是什么？</p></li><li><p>这家公司怎么干这事儿的？主要业务模式是什么？</p></li><li><p>这家公司为什么要干这事？</p></li><li><p>这家公司如何通过干这事儿实现盈利？</p></li><li><p>这家公司干这事儿靠不靠谱?</p><h2 id="市场痛点：风口、行业需求的变化"><a href="#市场痛点：风口、行业需求的变化" class="headerlink" title="市场痛点：风口、行业需求的变化"></a><strong>市场痛点：风口、行业需求的变化</strong></h2></li></ul><p>分析及研究方法参考第一节课的内容。</p><p><a href="https://www.wolai.com/deserce/k5N5RWAHwf2jG7SLA5xxiz?theme=light" target="_blank" rel="noopener">重新认识行业</a></p><h2 id="生意模式：企业如何利用原材料、劳动力、技术、资产创造财富的过程（提供产品和服务）"><a href="#生意模式：企业如何利用原材料、劳动力、技术、资产创造财富的过程（提供产品和服务）" class="headerlink" title="生意模式：企业如何利用原材料、劳动力、技术、资产创造财富的过程（提供产品和服务）"></a>生意模式：企业如何利用原材料、劳动力、技术、资产创造财富的过程（提供产品和服务）</h2><ol><li><p>公司拥有哪些资产、能力使其具备可以生产市场上可以接受的产品或服务（<strong>静态资产</strong>）</p></li><li><p>公司如何通过资产、能力创造财富（<strong>动态流程</strong>）</p></li></ol><h3 id="去哪里？怎么看？"><a href="#去哪里？怎么看？" class="headerlink" title="去哪里？怎么看？"></a><strong>去哪里？怎么看？</strong></h3><p>招股说明书：章节业务和技术</p><ol><li><p><strong>第一节</strong> 产品及产品的形成流程（业务模式、<strong>动态流程</strong>）</p></li><li><p><strong>第二节</strong> 公司所处的行业情况 （部分行业因素对公司的影响、<strong>环境的影响</strong>）</p></li><li><p><strong>第三节</strong> 公司的销售情况和主要客户（产品卖给谁、<strong>动态流程</strong>）</p></li><li><p><strong>第四节</strong> 公司采购情况和主要供应商（成本和原料的来源，<strong>动态流程</strong>）</p></li><li><p><strong>第五节</strong> 固定资产/无形资产（机器设备、土地、生产专利：<strong>静态资产</strong>）</p></li><li><p><strong>第六节</strong> 公司核心技术和研发情况（专利技术、成果：<strong>静态资产</strong>）</p></li></ol><h3 id="盈利方式："><a href="#盈利方式：" class="headerlink" title="盈利方式："></a>盈利方式：</h3><blockquote><p>以上均是事实，不能作投资的决定主要依据</p></blockquote><h1 id="寻找影响生意的因素——这门生意靠谱么？"><a href="#寻找影响生意的因素——这门生意靠谱么？" class="headerlink" title="寻找影响生意的因素——这门生意靠谱么？"></a>寻找影响生意的因素——这门生意靠谱么？</h1><h2 id="寻找公司的竞争优势"><a href="#寻找公司的竞争优势" class="headerlink" title="寻找公司的竞争优势"></a>寻找公司的竞争优势</h2><blockquote><p>比别人好的不是竞争优势，你有别人没有的才是！（<strong>护城河</strong>）</p></blockquote><h2 id="如何判断竞争优势【难点——熟练】"><a href="#如何判断竞争优势【难点——熟练】" class="headerlink" title="如何判断竞争优势【难点——熟练】"></a>如何判断竞争优势【难点——熟练】</h2><h3 id="分而治之"><a href="#分而治之" class="headerlink" title="分而治之"></a>分而治之</h3><ul><li><p>了解公司的资产和业务</p><ul><li><p>招股书</p></li><li><p>资源资料（资源部 矿产）</p></li><li><p>专利资料（<a href="https://www.patent9.com/" target="_blank" rel="noopener">patent9</a>）</p></li><li><p>人力资源（领英）</p></li></ul></li><li><p>找到对标对象，比对资产和业务模式：按照上一步重新梳理一遍，找到不同公司之间的差异，分析比较优势（参与创造价值的资产）</p><h3 id="整合判断"><a href="#整合判断" class="headerlink" title="整合判断"></a>整合判断</h3></li><li><p>弄清楚竞争优势的含义</p></li><li><p>弄清楚资产和业务的关系 注意：思考路径应该从业务到资产</p></li><li><p>尝试将竞争优势分为需求端和供给端</p></li></ul><h2 id="在研究过程中怎么降低判断错误的机率？"><a href="#在研究过程中怎么降低判断错误的机率？" class="headerlink" title="在研究过程中怎么降低判断错误的机率？"></a>在研究过程中怎么降低判断错误的机率？</h2><ul><li><p><strong>空间转换</strong></p><ul><li>扩大研究范围（只对标一家公司到对标多家公司，甚至是不同市场的公司）</li></ul></li><li><p><strong>时间转换</strong></p><ul><li>研究企业和其对手的由死向生的拐点（拥有收入时、 盈亏平衡时、周期底部时）</li></ul></li><li><p><strong>精细研究的颗粒度</strong></p><ul><li>多问几个为什么？深入，细化</li></ul></li></ul><h1 id="我们究竟在研究什么？"><a href="#我们究竟在研究什么？" class="headerlink" title="我们究竟在研究什么？"></a>我们究竟在研究什么？</h1><h2 id="总结企业成功的一般规律"><a href="#总结企业成功的一般规律" class="headerlink" title="总结企业成功的一般规律"></a>总结企业成功的一般规律</h2><ol><li><p>需求端的优势：<strong>环境的变化</strong>（行业、政策等）</p></li><li><p>供给端的优势：<strong>生意模式</strong>以及<strong>人</strong>的核心壁垒</p></li></ol><hr>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h1 id=&quot;生意是什么&quot;&gt;&lt;a href=&quot;#生意是什么&quot; class=&quot;headerlink&quot; title=&quot;生意是什么?&quot;&gt;&lt;/a&gt;生意是什么?&lt;/h1&gt;&lt;p&gt;这家公司通过什么样的业务和产品解决了什么市场痛点，从而实现了赚钱的小目标。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;这家
-      
-    
-    </summary>
-    
-    
-      <category term="自我救赎" scheme="https://deserce.github.io/categories/%E8%87%AA%E6%88%91%E6%95%91%E8%B5%8E/"/>
-    
-      <category term="投资" scheme="https://deserce.github.io/categories/%E8%87%AA%E6%88%91%E6%95%91%E8%B5%8E/%E6%8A%95%E8%B5%84/"/>
-    
-      <category term="学习笔记" scheme="https://deserce.github.io/categories/%E8%87%AA%E6%88%91%E6%95%91%E8%B5%8E/%E6%8A%95%E8%B5%84/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-    
-    
-      <category term="理财" scheme="https://deserce.github.io/tags/%E7%90%86%E8%B4%A2/"/>
-    
-      <category term="思维" scheme="https://deserce.github.io/tags/%E6%80%9D%E7%BB%B4/"/>
-    
-      <category term="入门篇" scheme="https://deserce.github.io/tags/%E5%85%A5%E9%97%A8%E7%AF%87/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>【笔记】重新认识行业</title>
-    <link href="https://deserce.github.io/2021/09/21/20210921/"/>
-    <id>https://deserce.github.io/2021/09/21/20210921/</id>
-    <published>2021-09-21T15:23:04.000Z</published>
-    <updated>2021-09-21T15:29:34.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="【笔记】重新认识行业"><a href="#【笔记】重新认识行业" class="headerlink" title="【笔记】重新认识行业"></a>【笔记】重新认识行业</h1><h2 id="何为好行业？"><a href="#何为好行业？" class="headerlink" title="何为好行业？"></a>何为好行业？</h2><h3 id="客观条件下（风口上的🐖）"><a href="#客观条件下（风口上的🐖）" class="headerlink" title="客观条件下（风口上的🐖）"></a>客观条件下（风口上的🐖）</h3><ul><li><p><strong>经济</strong>（经济环境周期的变化)</p></li><li><p><strong>政策</strong>（政策方向的倾斜）</p></li><li><p><strong>消费者</strong> （人口年龄结构的变化、心理变化）</p></li><li><p><strong>技术</strong> （技术的变革破坏）</p></li></ul><h3 id="主观条件（生意模式、组织和人）"><a href="#主观条件（生意模式、组织和人）" class="headerlink" title="主观条件（生意模式、组织和人）"></a>主观条件（生意模式、组织和人）</h3><ul><li><p><strong>品牌</strong>（茅台👍、奔驰👎）</p></li><li><p><strong>规模</strong>（可口可乐）</p></li><li><p><strong>产品</strong>（研发）</p></li><li><p><strong>组织</strong>（管理）</p></li></ul><h2 id="寻找“好”的因素"><a href="#寻找“好”的因素" class="headerlink" title="寻找“好”的因素"></a>寻找“好”的因素</h2><ul><li><p><strong>客观</strong> —— 从<strong>行业</strong>分析</p></li><li><p><strong>主观</strong> —— 从<strong>生意</strong>和<strong>人</strong>分析</p></li></ul><h2 id="如何进行行业分析？"><a href="#如何进行行业分析？" class="headerlink" title="如何进行行业分析？"></a>如何进行<strong>行业分析</strong>？</h2><h3 id="获取信息：获取影响行业的因素-——-构建信息池"><a href="#获取信息：获取影响行业的因素-——-构建信息池" class="headerlink" title="获取信息：获取影响行业的因素 —— 构建信息池"></a><strong>获取信息</strong>：获取影响行业的因素 —— <strong>构建信息池</strong></h3><p>1️⃣ <strong>获取信息</strong></p><ul><li><p><strong>如何**</strong>查找<strong>**信息</strong></p><ol><li><p><strong>一手</strong>信息</p><ul><li><p>市场调研</p></li><li><p>专家访谈</p></li></ul></li><li><p><strong>二手</strong>信息</p><p>① 证券公司研究报告</p><ul><li><p>股票软件</p></li><li><p>萝卜投研\慧博</p></li><li><p>证券公司公众号</p></li></ul><p>② 上市公司招股说明书/年报</p><ul><li><p>A股：巨潮资讯网</p></li><li><p>H股：披露易</p></li><li><p>美股：sec.gov</p></li><li><p>股票软件：<strong>F10</strong></p></li><li><p>注意：<strong>公司代码</strong>不能搞混、<strong>时间范围、</strong>不同上市地点的招股说明书<strong>名称</strong>不一样</p></li><li><p>部分网站使用教程 <a href="https://deserce.github.io/2021/03/08/20210308/">行业研究进化史【一】</a></p></li></ul></li></ol></li></ul><ul><li><p><strong>如何**</strong>阅读<strong>**信息</strong></p><ol><li><p><strong>如何阅读上市公司招股说明书</strong></p><p><strong>A股为例：</strong>（<strong>招股书是陈述、不是判断！！！</strong>）</p><p><strong>主要阅读章节</strong>：</p><ul><li><p>（★★★★★）公司业务与技术</p></li><li><p>（★★★★★）财务会计信息和管理层分析</p></li><li><p>（★★★★☆）同业竞争和关联交易</p></li><li><p>（★★★☆☆）风险因素（部分公司使用的是模板）</p></li></ul></li><li><p><strong>如何阅读证券公司研报</strong></p><p>研报讲了些什么？</p><ul><li><p><del>上市公司的基本信息——与招股书重合（可以不看）</del></p></li><li><p>研究员会有一定的<strong>逻辑</strong>判断并给出一定的<strong>结论</strong>（主要得到逻辑分析及结论得出的过程）</p></li></ul></li></ol></li></ul><p>2️⃣ <strong>构建第一个信息池</strong></p><p><strong>我们知道的</strong>+<strong>别人分析的</strong></p><h3 id="分析信息：如何分析我们构建的信息池中的影响因素！"><a href="#分析信息：如何分析我们构建的信息池中的影响因素！" class="headerlink" title="分析信息：如何分析我们构建的信息池中的影响因素！"></a><strong>分析信息</strong>：如何分析我们构建的信息池中的影响因素！</h3><p>1️⃣ <strong>交叉验证</strong></p><ul><li><p>信息来源/结论的对比</p></li><li><p><strong>不同</strong>信息来源的结论<strong>对比</strong></p></li><li><p><strong>相同</strong>来源的逻辑<strong>自洽</strong></p></li></ul><p>2️⃣ <strong>调研验证</strong> —— 根据证据链证伪信息（侧面打听：供应商/门卫大爷）</p><blockquote><p>例子：浑水做空瑞信咖啡</p></blockquote><p>3️⃣ <strong>扩大范围</strong> —— <strong>相同时空背景 代入同类公司</strong></p><blockquote><p>判断逻辑是否为主要因素可将其放入同类公司进行分析，分析逻辑是否准确</p></blockquote><p><strong>得出结论</strong></p><h2 id="作业：证实-证伪信息的方法？并举例分析！"><a href="#作业：证实-证伪信息的方法？并举例分析！" class="headerlink" title="作业：证实/证伪信息的方法？并举例分析！"></a><strong>作业：证实/证伪信息的方法？并举例分析！</strong></h2><h2 id="视频链接"><a href="#视频链接" class="headerlink" title="视频链接"></a>视频链接</h2><p><a href="https://www.bilibili.com/cheese/play/ep10563" target="_blank" rel="noopener">点我</a></p><h2 id="原文链接"><a href="#原文链接" class="headerlink" title="原文链接"></a>原文链接</h2><p><a href="https://www.wolai.com/deserce/k5N5RWAHwf2jG7SLA5xxiz?theme=light" target="_blank" rel="noopener">重新认识行业</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h1 id=&quot;【笔记】重新认识行业&quot;&gt;&lt;a href=&quot;#【笔记】重新认识行业&quot; class=&quot;headerlink&quot; title=&quot;【笔记】重新认识行业&quot;&gt;&lt;/a&gt;【笔记】重新认识行业&lt;/h1&gt;&lt;h2 id=&quot;何为好行业？&quot;&gt;&lt;a href=&quot;#何为好行业？&quot; class=&quot;
-      
-    
-    </summary>
-    
-    
-      <category term="自我救赎" scheme="https://deserce.github.io/categories/%E8%87%AA%E6%88%91%E6%95%91%E8%B5%8E/"/>
-    
-      <category term="投资" scheme="https://deserce.github.io/categories/%E8%87%AA%E6%88%91%E6%95%91%E8%B5%8E/%E6%8A%95%E8%B5%84/"/>
-    
-      <category term="学习笔记" scheme="https://deserce.github.io/categories/%E8%87%AA%E6%88%91%E6%95%91%E8%B5%8E/%E6%8A%95%E8%B5%84/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-    
-    
-      <category term="理财" scheme="https://deserce.github.io/tags/%E7%90%86%E8%B4%A2/"/>
-    
-      <category term="思维" scheme="https://deserce.github.io/tags/%E6%80%9D%E7%BB%B4/"/>
-    
-      <category term="入门篇" scheme="https://deserce.github.io/tags/%E5%85%A5%E9%97%A8%E7%AF%87/"/>
     
   </entry>
   
