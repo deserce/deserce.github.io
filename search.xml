@@ -4,6 +4,43 @@
   
     
     <entry>
+      <title>【模式】可转债套利</title>
+      <link href="/2022/04/26/20220426/"/>
+      <url>/2022/04/26/20220426/</url>
+      
+        <content type="html"><![CDATA[<p>玩游戏自然是要知道规则，首先罗列一下老师们整理好的交易规则。</p><h1 id="交易规则"><a href="#交易规则" class="headerlink" title="交易规则"></a>交易规则</h1><h2 id="竞价规则"><a href="#竞价规则" class="headerlink" title="竞价规则"></a><strong>竞价规则</strong></h2><h3 id="沪市："><a href="#沪市：" class="headerlink" title="沪市："></a><strong>沪市：</strong></h3><p>(1) 集合竞价阶段申报价格最高不高于前收盘价格的150%，并且不低于前收盘价格的70%；</p><p>(2) 连续竞价阶段的交易申报价格不高于即时揭示的最低卖出价格的110%且不低于即时揭示的最高买入价格的90%，同时不高于上述最高申报价与最低申报价平均数的130%且不低于该平均数的70%；</p><p>这句话有点绕，解释一下，就是申报价格需同时满足两个范围：</p><pre><code>1、在最高买入价的90%与最低卖出价的110%之间。2、在最高申报价与最低申报价平均数的70%-130%之间</code></pre><p>(3)沪市无尾盘集合竞价。</p><p>(4)超过有效竞价范围的委托，沪市直接废单</p><h3 id="深市："><a href="#深市：" class="headerlink" title="深市："></a><strong>深市：</strong></h3><p>(1) 上市首日集合竞价的有效竞价范围为发行价的上下30%，即70~130；<br>连续竞价、收盘集合竞价的有效竞价范围为最近成交价的上下10%；</p><p>(2) 非上市首日开盘集合竞价的有效竞价范围为前收盘价的上下10%；<br>连续竞价、收盘集合竞价的有效竞价范围为最近成交价的上下10%；</p><p>(3) 深市有尾盘集合竞价。</p><p>(4) 超过有效竞价范围的委托，深市保留委托单，直至价格触发后才释放出来等待成交。</p><h2 id="停牌规则"><a href="#停牌规则" class="headerlink" title="停牌规则"></a>停牌规则</h2><h3 id="沪市（代码-11-开头"><a href="#沪市（代码-11-开头" class="headerlink" title="沪市（代码 11 开头)"></a>沪市（代码 11 开头)</h3><p>(1) 首次涨跌士20%，临时停牌30分钟，如果停牌时间达到或超过14：57,则14：57复牌；</p><p>(2) 首次涨跌±30%，停牌到14：57；</p><p>(3) 临停期间，无法进行委托（委托了直接废单）。</p><h3 id="深市（代码12开头）"><a href="#深市（代码12开头）" class="headerlink" title="深市（代码12开头）"></a>深市（代码12开头）</h3><p>(1) 首次交易价格涨跌±20%，停牌30分钟；</p><p>(2) 首次交易价格涨跌±30%，停牌到14：57 (2020.10.30新规定)；</p><p>(3) 盘中临停期间，可以委托，也可以撤销委托；</p><p>(4) 临停时间跨越14：57的，于14：57复牌先撮合一次复牌集合竞价，然后直接进入收盘集合竞价</p><p>接下来整理一下老师整理的看的懂的模式；和我个人的一些理解。</p><h1 id="操作方式"><a href="#操作方式" class="headerlink" title="操作方式"></a>操作方式</h1><h2 id="股债联动"><a href="#股债联动" class="headerlink" title="股债联动"></a>股债联动</h2><blockquote><p>股债联动的前提是你所买入的标的转债股性强，会跟随正股走势，有些标的走势甚至会强于正股走势。如何判断，列一个参考指标，转股溢价率（0~30），这个指标仅供参考，个人认为将正股和转债的历史k线叠加在一起观察才是比较好的一个方式。</p></blockquote><h3 id="强势概念盘中博弈"><a href="#强势概念盘中博弈" class="headerlink" title="强势概念盘中博弈"></a>强势概念盘中博弈</h3><h3 id="盘中博弈涨停"><a href="#盘中博弈涨停" class="headerlink" title="盘中博弈涨停"></a>盘中博弈涨停</h3><p><a href="https://p0.meituan.net/dpgroup/3aa9b9201724fc0d5d7be5bb5bf16657199913.jpg" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://p0.meituan.net/dpgroup/3aa9b9201724fc0d5d7be5bb5bf16657199913.jpg" class="lazyload"></a></p><h3 id="盘中强势跟随套利"><a href="#盘中强势跟随套利" class="headerlink" title="盘中强势跟随套利"></a>盘中强势跟随套利</h3><p><a href="https://p1.meituan.net/dpgroup/36ea0916800ca2965f45ea272e888e9f658294.png" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://p1.meituan.net/dpgroup/36ea0916800ca2965f45ea272e888e9f658294.png" class="lazyload"></a></p><h3 id="涨停套利"><a href="#涨停套利" class="headerlink" title="涨停套利"></a>涨停套利</h3><h3 id="打板临停板"><a href="#打板临停板" class="headerlink" title="打板临停板"></a>打板临停板</h3><p><a href="https://p0.meituan.net/dpgroup/8fe350cc03ee0ca499e9cae0e07555a7184208.jpg" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://p0.meituan.net/dpgroup/8fe350cc03ee0ca499e9cae0e07555a7184208.jpg" class="lazyload"></a><br><a href="https://p0.meituan.net/dpgroup/52394fbf6f4bdc17758dcb4d733be796233042.jpg" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://p0.meituan.net/dpgroup/52394fbf6f4bdc17758dcb4d733be796233042.jpg" class="lazyload"></a></p><h3 id="尾盘套利博弈"><a href="#尾盘套利博弈" class="headerlink" title="尾盘套利博弈"></a>尾盘套利博弈</h3><p>案例同上，博弈次日溢价。</p><blockquote><p>前提是具有判断预期的能力，没有的话无异于赌博。</p></blockquote><h2 id="冰点套利"><a href="#冰点套利" class="headerlink" title="冰点套利"></a>冰点套利</h2><blockquote><p>一般出现在大盘情绪较差的时候，可以关注妖债机会</p></blockquote><p>妖债：不跟随正股走势，走独立行情，转股溢价率甚至 &gt;100/200/300</p><h1 id="心态"><a href="#心态" class="headerlink" title="心态"></a>心态</h1><p>心态最重要，缩量买点，放量卖点。</p><p>降低预期降低预期，赚自己能范围内的钱。</p><p>不要上头，</p><p>不要上头，</p><p>不要上头。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 自我救赎 </category>
+          
+          <category> 投资 </category>
+          
+          <category> 他山之石 </category>
+          
+          <category> 小泽 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 他山之石 </tag>
+            
+            <tag> 超短 </tag>
+            
+            <tag> 交易系统 </tag>
+            
+            <tag> 小泽 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>【他山之石】小泽24课笔记（八）如何制定短线交易计划</title>
       <link href="/2022/04/21/20220421/"/>
       <url>/2022/04/21/20220421/</url>
